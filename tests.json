@@ -1,0 +1,10 @@
+[
+  {"id": "T1", "description": "Proposal example: budget <= 30, Italian, Dinner, no Nuts",
+   "requirements": {"max_budget": 30, "cuisine": "Italian", "meal_time": "Dinner", "allergies": ["Nuts"]}},
+  {"id": "T2", "description": "Budget + meal time",
+   "requirements": {"max_budget": 40, "meal_time": "Lunch"}},
+  {"id": "T3", "description": "Cuisine + meal time + one allergy",
+   "requirements": {"cuisine": "Arabic", "meal_time": "Breakfast", "allergies": ["Dairy"]}},
+  {"id": "T4", "description": "Three allergies only",
+   "requirements": {"allergies": ["Nuts", "Dairy", "Gluten"]}}
+]

@@ -1,0 +1,21 @@
+id,name,price,cuisine,ingredients,allergens,meal_times
+1,Margherita Pizza,25,Italian,flour|tomato|cheese,Gluten|Dairy,Lunch|Dinner
+2,Spaghetti Pomodoro,22,Italian,pasta|tomato|garlic,Gluten,Dinner
+3,Chicken Alfredo,30,Italian,pasta|chicken|cream,Gluten|Dairy,Dinner
+4,Pesto Pasta,28,Italian,pasta|basil|almond,Gluten|Nuts,Dinner
+5,Almond Tiramisu,26,Italian,egg|cream|almond,Eggs|Dairy|Nuts,Dinner
+6,Lasagna,45,Italian,pasta|beef|cheese,Gluten|Dairy,Lunch|Dinner
+7,Kabsa,40,Arabic,rice|chicken|spices,,Lunch|Dinner
+8,Falafel Wrap,15,Arabic,chickpeas|bread|tomato,Gluten,Lunch
+9,Foul Medames,10,Arabic,fava|olive oil|lemon,,Breakfast
+10,Shakshuka,18,Arabic,egg|tomato|onion,Eggs,Breakfast|Lunch
+11,Lamb Mandi,90,Arabic,rice|lamb|spices,,Dinner
+12,Chicken Biryani,35,Indian,rice|chicken|spices,,Lunch|Dinner
+13,Paneer Tikka,32,Indian,paneer|yogurt|spices,Dairy,Dinner
+14,Cashew Curry,38,Indian,cashew|cream|onion,Nuts|Dairy,Dinner
+15,Masala Dosa,12,Indian,rice|lentils|potato,,Breakfast
+16,Pancakes,14,American,flour|egg|milk,Gluten|Eggs|Dairy,Breakfast
+17,Cheeseburger,42,American,bread|beef|cheese,Gluten|Dairy,Lunch|Dinner
+18,Peanut Butter Toast,8,American,bread|peanut,Gluten|Nuts,Breakfast
+19,Shrimp Fried Rice,27,Asian,rice|shrimp|soy sauce|egg,Seafood|Soy|Gluten|Eggs,Dinner
+20,Tofu Stir Fry,24,Asian,tofu|rice|garlic,Soy,Lunch|Dinner

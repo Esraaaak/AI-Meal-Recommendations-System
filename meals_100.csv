@@ -1,0 +1,101 @@
+id,name,price,cuisine,ingredients,allergens,meal_times
+1,Meal 1,36,Indian,rice|olive oil|beef|walnut,Nuts,Breakfast
+2,Meal 2,109,Italian,bread|olive oil|lentils|soy sauce,Gluten|Soy,Breakfast
+3,Meal 3,11,Arabic,flour|tomato|spices|soy sauce|cucumber,Gluten|Soy,Breakfast|Lunch
+4,Meal 4,111,American,cream|potato|beef|garlic,Dairy,Lunch
+5,Meal 5,101,Indian,lettuce|mayonnaise|lentils,Eggs,Dinner
+6,Meal 6,44,Mexican,egg|butter|beef,Dairy|Eggs,Lunch|Breakfast
+7,Meal 7,26,American,flour|chicken|tofu|beef|cheese,Dairy|Gluten|Soy,Dinner
+8,Meal 8,19,Arabic,almond|cheese|soy sauce|tomato|egg,Dairy|Eggs|Gluten|Nuts|Soy,Lunch
+9,Meal 9,47,American,milk|chicken|onion|cucumber,Dairy,Lunch|Breakfast
+10,Meal 10,82,Asian,walnut|potato|cream,Dairy|Nuts,Dinner
+11,Meal 11,29,American,milk|lettuce|lentils|tofu,Dairy|Soy,Lunch
+12,Meal 12,33,Asian,beef|lemon|pasta|olive oil,Gluten,Breakfast
+13,Meal 13,16,Arabic,egg|bread|garlic,Eggs|Gluten,Breakfast|Dinner
+14,Meal 14,107,American,pasta|butter|walnut,Dairy|Gluten|Nuts,Breakfast
+15,Meal 15,44,American,garlic|tofu|chicken|egg,Eggs|Soy,Breakfast
+16,Meal 16,87,Arabic,chickpeas|tuna|walnut|lettuce|butter,Dairy|Nuts|Seafood,Breakfast|Lunch
+17,Meal 17,59,Indian,tuna|onion|garlic|chickpeas,Seafood,Dinner
+18,Meal 18,95,American,beef|bread|rice|chicken|onion,Gluten,Dinner
+19,Meal 19,41,Mexican,rice|walnut|shrimp,Nuts|Seafood,Breakfast
+20,Meal 20,44,Italian,beef|lamb|lemon|rice|almond,Nuts,Breakfast|Dinner
+21,Meal 21,98,Indian,rice|almond|lettuce,Nuts,Lunch
+22,Meal 22,27,Indian,tofu|chicken|walnut|garlic|lentils,Nuts|Soy,Lunch
+23,Meal 23,66,Indian,pasta|lemon|soy sauce,Gluten|Soy,Breakfast|Lunch
+24,Meal 24,116,Asian,potato|tuna|mayonnaise|lamb|lemon,Eggs|Seafood,Breakfast|Dinner
+25,Meal 25,23,Asian,lettuce|shrimp|onion|spices,Seafood,Breakfast|Dinner
+26,Meal 26,119,American,almond|onion|butter|olive oil|lentils,Dairy|Nuts,Breakfast|Dinner
+27,Meal 27,6,Arabic,mayonnaise|tofu|rice|potato|shrimp,Eggs|Seafood|Soy,Breakfast
+28,Meal 28,78,Italian,tomato|tuna|lentils,Seafood,Breakfast
+29,Meal 29,43,Italian,chicken|cheese|almond|egg,Dairy|Eggs|Nuts,Lunch
+30,Meal 30,78,Italian,lamb|cream|tofu|pasta,Dairy|Gluten|Soy,Breakfast|Dinner
+31,Meal 31,35,Asian,cucumber|walnut|tomato|soy sauce|lamb,Gluten|Nuts|Soy,Dinner|Breakfast
+32,Meal 32,65,Arabic,onion|chicken|tomato|pasta,Gluten,Lunch|Dinner
+33,Meal 33,11,Italian,tofu|potato|pasta|rice,Gluten|Soy,Dinner
+34,Meal 34,94,Mexican,milk|cheese|flour,Dairy|Gluten,Lunch|Breakfast
+35,Meal 35,66,Asian,tuna|butter|spices|chicken|flour,Dairy|Gluten|Seafood,Breakfast|Dinner
+36,Meal 36,109,Mexican,milk|tofu|spices,Dairy|Soy,Lunch|Dinner
+37,Meal 37,54,Arabic,rice|flour|mayonnaise|chickpeas|cucumber,Eggs|Gluten,Dinner
+38,Meal 38,12,Mexican,cheese|cucumber|bread|almond,Dairy|Gluten|Nuts,Breakfast|Dinner
+39,Meal 39,20,American,lentils|lemon|mayonnaise|olive oil|tofu,Eggs|Soy,Dinner|Lunch
+40,Meal 40,31,Asian,chicken|shrimp|olive oil|garlic,Seafood,Lunch
+41,Meal 41,27,Italian,flour|mayonnaise|potato|lentils|soy sauce,Eggs|Gluten|Soy,Lunch|Breakfast
+42,Meal 42,96,American,rice|walnut|cream|lamb|lettuce,Dairy|Nuts,Dinner|Lunch
+43,Meal 43,44,Italian,tuna|cream|butter|garlic|rice,Dairy|Seafood,Breakfast
+44,Meal 44,25,American,butter|onion|tofu,Dairy|Soy,Breakfast|Lunch
+45,Meal 45,51,Mexican,cheese|almond|lettuce|rice,Dairy|Nuts,Lunch|Breakfast
+46,Meal 46,17,Indian,olive oil|bread|potato|rice|milk,Dairy|Gluten,Lunch
+47,Meal 47,88,Mexican,cucumber|tuna|lamb,Seafood,Breakfast
+48,Meal 48,33,Mexican,cucumber|pasta|soy sauce,Gluten|Soy,Breakfast
+49,Meal 49,68,Asian,beef|lemon|cucumber|lettuce,,Breakfast|Dinner
+50,Meal 50,43,Italian,cream|bread|olive oil|butter,Dairy|Gluten,Dinner|Breakfast
+51,Meal 51,64,Arabic,soy sauce|lamb|cucumber|tomato,Gluten|Soy,Dinner
+52,Meal 52,44,Asian,flour|bread|cucumber,Gluten,Breakfast
+53,Meal 53,5,Mexican,tomato|lamb|olive oil,,Lunch
+54,Meal 54,118,Asian,soy sauce|pasta|cheese|rice,Dairy|Gluten|Soy,Dinner
+55,Meal 55,58,American,tofu|flour|egg|garlic,Eggs|Gluten|Soy,Dinner|Breakfast
+56,Meal 56,66,American,milk|chickpeas|flour|garlic,Dairy|Gluten,Lunch
+57,Meal 57,8,American,soy sauce|tofu|mayonnaise|milk|cream,Dairy|Eggs|Gluten|Soy,Dinner
+58,Meal 58,56,Italian,cheese|milk|soy sauce|garlic,Dairy|Gluten|Soy,Dinner|Lunch
+59,Meal 59,5,Indian,tomato|shrimp|tofu|butter,Dairy|Seafood|Soy,Dinner|Lunch
+60,Meal 60,116,Asian,milk|almond|onion,Dairy|Nuts,Lunch
+61,Meal 61,50,Asian,cream|chicken|butter|shrimp|tofu,Dairy|Seafood|Soy,Lunch|Breakfast
+62,Meal 62,31,Italian,lemon|soy sauce|egg|pasta,Eggs|Gluten|Soy,Dinner|Lunch
+63,Meal 63,71,Asian,pasta|lettuce|beef|butter|spices,Dairy|Gluten,Dinner
+64,Meal 64,99,American,lentils|tuna|lamb|butter,Dairy|Seafood,Dinner
+65,Meal 65,45,Mexican,beef|onion|cucumber,,Lunch
+66,Meal 66,105,American,tomato|cream|chicken,Dairy,Lunch|Breakfast
+67,Meal 67,52,Italian,rice|garlic|bread,Gluten,Dinner
+68,Meal 68,9,Indian,almond|chickpeas|tofu|chicken,Nuts|Soy,Breakfast
+69,Meal 69,78,Mexican,tofu|shrimp|pasta|garlic,Gluten|Seafood|Soy,Lunch
+70,Meal 70,93,Arabic,lemon|lettuce|spices,,Lunch|Dinner
+71,Meal 71,57,Italian,chickpeas|almond|cucumber|butter,Dairy|Nuts,Breakfast
+72,Meal 72,98,Italian,cheese|soy sauce|lamb|milk|lettuce,Dairy|Gluten|Soy,Dinner
+73,Meal 73,81,Italian,milk|spices|lettuce,Dairy,Dinner|Lunch
+74,Meal 74,19,Italian,bread|mayonnaise|shrimp|rice|beef,Eggs|Gluten|Seafood,Dinner|Lunch
+75,Meal 75,22,Italian,garlic|milk|lentils,Dairy,Breakfast|Dinner
+76,Meal 76,100,Italian,potato|lemon|tuna|flour,Gluten|Seafood,Dinner|Breakfast
+77,Meal 77,50,Arabic,lamb|lentils|potato|cream|spices,Dairy,Lunch|Dinner
+78,Meal 78,87,Italian,bread|garlic|lettuce|cucumber,Gluten,Dinner
+79,Meal 79,70,Mexican,tuna|cheese|olive oil,Dairy|Seafood,Dinner|Lunch
+80,Meal 80,119,Asian,potato|butter|lettuce|walnut|cucumber,Dairy|Nuts,Dinner|Breakfast
+81,Meal 81,68,Italian,bread|mayonnaise|onion|garlic,Eggs|Gluten,Dinner
+82,Meal 82,87,Mexican,flour|chicken|beef,Gluten,Dinner|Breakfast
+83,Meal 83,87,Italian,cheese|bread|milk|egg|rice,Dairy|Eggs|Gluten,Breakfast|Dinner
+84,Meal 84,20,Italian,walnut|lentils|garlic|shrimp|chickpeas,Nuts|Seafood,Breakfast
+85,Meal 85,80,Italian,mayonnaise|shrimp|potato|onion,Eggs|Seafood,Dinner
+86,Meal 86,105,Indian,shrimp|tofu|cream|milk,Dairy|Seafood|Soy,Dinner|Breakfast
+87,Meal 87,35,American,chickpeas|rice|chicken|cream|lettuce,Dairy,Breakfast|Dinner
+88,Meal 88,81,Mexican,potato|beef|chicken|almond|onion,Nuts,Breakfast
+89,Meal 89,64,American,tofu|rice|cream|butter|cheese,Dairy|Soy,Dinner|Breakfast
+90,Meal 90,115,Asian,potato|tofu|tomato,Soy,Dinner|Breakfast
+91,Meal 91,24,Italian,walnut|tomato|chickpeas|cucumber,Nuts,Dinner|Breakfast
+92,Meal 92,38,Mexican,rice|lentils|beef|walnut|lettuce,Nuts,Lunch
+93,Meal 93,84,Italian,mayonnaise|soy sauce|tuna|lemon|shrimp,Eggs|Gluten|Seafood|Soy,Lunch
+94,Meal 94,56,Arabic,shrimp|chickpeas|lettuce,Seafood,Lunch
+95,Meal 95,16,American,cucumber|garlic|lemon|walnut,Nuts,Lunch
+96,Meal 96,90,Asian,cucumber|almond|bread|cream|onion,Dairy|Gluten|Nuts,Dinner
+97,Meal 97,76,Mexican,chicken|flour|cream,Dairy|Gluten,Breakfast
+98,Meal 98,7,Indian,garlic|pasta|tuna|chickpeas,Gluten|Seafood,Dinner
+99,Meal 99,111,Arabic,tuna|bread|mayonnaise|pasta|potato,Eggs|Gluten|Seafood,Lunch|Breakfast
+100,Meal 100,23,Arabic,lemon|rice|bread|spices|mayonnaise,Eggs|Gluten,Dinner|Lunch
