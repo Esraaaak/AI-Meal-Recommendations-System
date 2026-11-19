@@ -1,0 +1,18 @@
+[
+  {"id": "T1", "description": "Proposal example: budget <= 30, Italian, Dinner, no Nuts (Role 2)",
+   "requirements": {"max_budget": 30, "cuisine": "Italian", "meal_time": "Dinner", "allergies": ["Nuts"]}},
+  {"id": "T2", "description": "Budget + meal time (Role 2)",
+   "requirements": {"max_budget": 15, "meal_time": "Lunch"}},
+  {"id": "T3", "description": "Cuisine + meal time + one allergy (Role 2)",
+   "requirements": {"cuisine": "Chinese", "meal_time": "Lunch", "allergies": ["Seafood"]}},
+  {"id": "T4", "description": "Three allergies only (Role 2)",
+   "requirements": {"allergies": ["Nuts", "Dairy", "Gluten"]}},
+  {"id": "T5", "description": "Very strict, few matches: Diner + Breakfast + budget 15 + Nuts + Dairy (Role 3)",
+   "requirements": {"max_budget": 15, "cuisine": "Diner", "meal_time": "Breakfast", "allergies": ["Nuts", "Dairy"]}},
+  {"id": "T6", "description": "No match: budget 0 (Role 3)",
+   "requirements": {"max_budget": 0}},
+  {"id": "T7", "description": "Almost everything matches: budget 1000 only (Role 3)",
+   "requirements": {"max_budget": 1000}},
+  {"id": "T8", "description": "Boundary: budget exactly 12, an existing Italian price (Role 3)",
+   "requirements": {"max_budget": 12, "cuisine": "Italian"}}
+]

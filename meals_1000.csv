@@ -1,0 +1,1001 @@
+id,name,price,cuisine,allergens,meal_times
+1,Potato Salad,8,Diner,,Lunch|Dinner
+2,Organic Raisin Oatbran,7,Diner,,Lunch|Dinner
+3,Teriyaki Grilled Steak,14,American,Soy,Lunch|Dinner
+4,Shrimp Tempura Roll,12,Japanese,Seafood,Lunch|Dinner
+5,Chicken by the Side Breast,2,Chicken,,Lunch|Dinner
+6,Pancake with Ham,14,Diner,Gluten,Breakfast
+7,Cranberry Juice,6,Diner,,Lunch|Dinner
+8,New York Roll,14,Asian,,Lunch|Dinner
+9,Sweet Chili Sauce,2,Other,,Lunch|Dinner
+10,spinach knish,8,Deli Food,,Lunch|Dinner
+11,PORTOBELLO SALAD,25,Diner,,Lunch|Dinner
+12,20 oz. Bottled Soda,3,Other,,Lunch|Dinner
+13,Boneless Rib Eye Steak (16 oz. Prime Angus),44,American,,Lunch|Dinner
+14,Chicken Quesadilla,25,American,Dairy,Lunch|Dinner
+15,Mushroom Omelette Platter Breakfast,7,American,Dairy|Eggs,Breakfast
+16,Simply Cranberry Cocktail - 11.5oz,3,American,,Lunch|Dinner
+17,23. Chicken Fajita,10,Mexican,,Lunch|Dinner
+18,Bistec Saltedo Special,13,Latin American,,Lunch|Dinner
+19,Fighter Cider®,10,Other,,Lunch|Dinner
+20,Kids Mac and Cheese,16,Diner,Dairy,Lunch|Dinner
+21,Arugula & Parm,12,American,,Lunch|Dinner
+22,Pho Lunch Special,14,Other,,Lunch
+23,51. Sha Cha Chicken,15,Other,,Lunch|Dinner
+24,Bell's Lager of the Lakes 12oz (5.0 abv) (Must be 21 to purchase),5,Other,,Lunch|Dinner
+25,Papaya Salad,13,Other,,Lunch|Dinner
+26,Jougo (Sugar Cane),8,Japanese,,Lunch|Dinner
+27,Stuffed Shells Parmigiana,15,Diner,Dairy,Lunch|Dinner
+28,DIY Charcuterie Kit,85,Deli Food,,Lunch|Dinner
+29,Side of Grilled Shrimp,10,American,Seafood,Lunch|Dinner
+30,French Dip,10,Other,,Lunch|Dinner
+31,Tuna Salad Melt,21,Diner,Seafood,Lunch|Dinner
+32,Wagyu Burger,20,Other,Gluten,Lunch|Dinner
+33,Chardonney (Blt),25,Japanese,,Lunch|Dinner
+34,Julius Caesar with Grilled Chicken,4,American,,Lunch|Dinner
+35,Multigrain Pancakes,17,Diner,Gluten,Breakfast
+36,Mushroom Omelette,14,Diner,Eggs,Breakfast
+37,Shrimp Taco Rancheros,18,Mexican,Gluten|Seafood,Lunch|Dinner
+38,12oz Can Soda,2,Deli Food,,Lunch|Dinner
+39,D. Mango Mango Combo D,12,Other,,Lunch|Dinner
+40,Oyako Don Lunch Special,11,Japanese,,Lunch
+41,PJ'S FAMOUS PASTRAMI Sandwich,23,Deli Food,Gluten,Lunch|Dinner
+42,Western Omelette Platter,10,American,Dairy|Eggs,Breakfast
+43,Field Green Salad Dinner,12,American,,Dinner
+44,500 ml Fiji Mineral Water,4,Asian,,Lunch|Dinner
+45,Creamsicle Dairy Smoothie,8,Deli Food,Dairy,Lunch|Dinner
+46,Rice Plain,3,Other,,Lunch|Dinner
+47,Giant Madiso Ice Cream,4,Deli Food,Dairy,Lunch|Dinner
+48,Tempura Ice Cream,6,Japanese,Dairy,Lunch|Dinner
+49,Mixed Fruit,5,Other,,Lunch|Dinner
+50,Cinnamon Roll Bar,4,Other,,Lunch|Dinner
+51,Meatballs,11,Italian,,Lunch|Dinner
+52,Yasai Gyoza,7,Asian,,Lunch|Dinner
+53,Laffa,3,Other,,Lunch|Dinner
+54,Perrier Water. Liter,5,Chicken,,Lunch|Dinner
+55,Vegetable Soup,10,Chinese,,Lunch|Dinner
+56,78. Pepper Steak,16,Chinese,,Lunch|Dinner
+57,Assorted Hot Sandwich Platter,120,Diner,Dairy|Gluten,Lunch|Dinner
+58,Shrimp Scampi with Rice Pilaf,28,Diner,Seafood,Lunch|Dinner
+59,Hot Oatmeal Breakfast,5,Diner,,Breakfast
+60,48. Cheese Super Enchiladas,9,Mexican,Dairy,Lunch|Dinner
+61,Salmon,5,Asian,Seafood,Lunch|Dinner
+62,P6. Montecristo Panini,11,Deli Food,Gluten,Lunch|Dinner
+63,Plain Knish,4,Other,,Lunch|Dinner
+64,Wine Bottle Chateau Loumelat Bordeaux,35,Other,,Lunch|Dinner
+65,Side of Scallop,14,Chinese,Seafood,Lunch|Dinner
+66,L24. Shrimp with Garlic Sauce Lunch,10,Chinese,Seafood,Lunch
+67,BBQ Spare Ribs Appetizer(4),30,Deli Food,,Lunch|Dinner
+68,Vegetarian Delight,23,Asian,,Lunch|Dinner
+69,Sesame Beef,19,Chinese,,Lunch|Dinner
+70,Strawberry Fields Lunch Salad,20,American,,Lunch
+71,Spinach and Feta Cheese Omelette,17,Diner,Dairy|Eggs,Breakfast
+72,"1. Corned Beef, Tongue and Turkey Sandwich",26,Deli Food,Gluten,Lunch|Dinner
+73,Pancake Breakfast,6,American,Gluten,Breakfast
+74,Spinach Pierogi,8,Diner,,Lunch|Dinner
+75,French Toast with Blueberries,12,Diner,Gluten|Eggs,Breakfast
+76,12. Tuna,4,Japanese,Seafood,Lunch|Dinner
+77,Beef Fried Rice,16,Japanese,,Lunch|Dinner
+78,Pork Chop Broiled,20,Italian,,Lunch|Dinner
+79,Vitello Parmigiana,28,Italian,Dairy,Lunch|Dinner
+80,81. Pint Pepper Steak with Onions,7,Chinese,,Lunch|Dinner
+81,Asopao de Camarones,24,Latin American,,Lunch|Dinner
+82,ITO EN Unsweetened Green Tea,4,Asian,,Lunch|Dinner
+83,Shrimp Tempura Roll,22,Other,Seafood,Lunch|Dinner
+84,10 Piece Tuna and Avocado Roll,10,Deli Food,Seafood,Lunch|Dinner
+85,67. Sliced Beef and Noodle in Curry Soup,13,Chinese,Gluten,Lunch|Dinner
+86,"Bacon, Lettuce and Tomato Sandwich",11,Diner,Gluten,Lunch|Dinner
+87,Baked Meatloaf,20,Diner,,Lunch|Dinner
+88,Naked Pina Colada Juice,6,Deli Food,,Lunch|Dinner
+89,Canadian Northfork Bison Cheeseburger,14,Diner,Dairy|Gluten,Lunch|Dinner
+90,Philadelphia Burger,11,Burgers,Gluten,Lunch|Dinner
+91,Baby Back Ribs,24,Diner,,Lunch|Dinner
+92,Placido Pinot Grigio,35,Japanese,,Lunch|Dinner
+93,STEAK A LA CARTE,22,Japanese,,Lunch|Dinner
+94,Ensalada de Papas / Potatoes Salad,4,Latin American,,Lunch|Dinner
+95,Greek Salad,10,Diner,,Lunch|Dinner
+96,Penne ala Vodka,16,Latin American,Gluten,Lunch|Dinner
+97,French Toast Supreme,17,Diner,Gluten|Eggs,Breakfast
+98,Pizza con Patate e Cipolla,18,Other,Gluten,Lunch|Dinner
+99,Mexican Burger,18,Burgers,Gluten,Lunch|Dinner
+100,65. Imported Mortadella Sandwich,17,Deli Food,Gluten,Lunch|Dinner
+101,Mexican Burger,11,Diner,Gluten,Lunch|Dinner
+102,Brownies.,5,Mexican,Gluten,Lunch|Dinner
+103,Combo Tempura,16,Asian,,Lunch|Dinner
+104,"Sausage, Peppers and Onions Hero",9,Italian,Gluten,Lunch|Dinner
+105,Marshmallow and Caramel and Nutella Crepe,17,Other,Nuts,Lunch|Dinner
+106,76. Pint Hunan Chicken,6,Chinese,,Lunch|Dinner
+107,10. Fish Sandwich,4,Chinese,Gluten|Seafood,Lunch|Dinner
+108,Guacamole with Chips,8,Mexican,,Lunch|Dinner
+109,Stuffed Mashed Potatoes,4,Other,,Lunch|Dinner
+110,Eel Cheese Mango Roll,10,Japanese,Dairy|Seafood,Lunch|Dinner
+111,V05 Shampoo - 12oz,10,American,,Lunch|Dinner
+112,C19. Beef with Cumin Sauce,24,Chinese,,Lunch|Dinner
+113,1/4 lb Chopped Chicken Liver,4,Deli Food,,Lunch|Dinner
+114,Chicken Gyro Sandwich,11,American,Gluten,Lunch|Dinner
+115,Catering Guacamole and Chips,9,Diner,,Lunch|Dinner
+116,Grilled Chicken Entree,21,Diner,,Lunch|Dinner
+117,Veal Francese,19,Italian,,Lunch|Dinner
+118,1 Piece Inari,2,Japanese,,Lunch|Dinner
+119,Hot Open Roast Beef Sandwich,31,Deli Food,Gluten,Lunch|Dinner
+120,Beef Stew Special,14,Other,,Lunch|Dinner
+121,Iced Coffee,4,Chicken,,Lunch|Dinner
+122,22. Fried Chicken,8,Chinese,,Lunch|Dinner
+123,Buttered Bagel Sandwich,3,Other,Dairy|Gluten,Breakfast
+124,Grandma Sicilian Pizza,25,Italian,Gluten,Lunch|Dinner
+125,Fresh Roast Homemade Turkey Sandwich,12,Diner,Gluten,Lunch|Dinner
+126,Cordon Bleu Burger,15,Diner,Gluten,Lunch|Dinner
+127,Wine Bottle Hewitt LuLu Adelaide Shiraz,30,Other,,Lunch|Dinner
+128,Lipton Tea,3,Deli Food,,Lunch|Dinner
+129,Pizza Burger,6,Burgers,Gluten,Lunch|Dinner
+130,Chicken Don,9,Japanese,,Lunch|Dinner
+131,Individual Tuna Cold Platter,20,Diner,Dairy|Seafood,Lunch|Dinner
+132,Toloache Corn on the Cob,6,Mexican,,Lunch|Dinner
+133,Ricotta and Mozzarella Cheese,7,Burgers,Dairy,Lunch|Dinner
+134,Yakitori Appetizer,8,Japanese,,Lunch|Dinner
+135,L8. Chicken with Black Bean Sauce,11,Chinese,,Lunch|Dinner
+136,205. Chicken with Broccoli,15,Chinese,,Lunch|Dinner
+137,S14. Sweet Banana,5,Chinese,,Lunch|Dinner
+138,22. Miser Wat,14,Other,,Lunch|Dinner
+139,3 Foot Hero,54,Italian,Gluten,Lunch|Dinner
+140,Tocino Y Queso (Bacon and Cheese) Omelette,11,Latin American,Dairy|Eggs,Breakfast
+141,Large Beef Soup,20,Latin American,,Lunch|Dinner
+142,Pho Ga Herbed Chicken Soup,20,Other,,Lunch|Dinner
+143,Pancakes with Patty Pork Sausage,10,American,Gluten,Breakfast
+144,Side of Bacon,7,Diner,,Lunch|Dinner
+145,S6. Pinky Salmon Salad,12,Other,Seafood,Lunch|Dinner
+146,Quinoa Pancakes,7,Other,Gluten,Breakfast
+147,Special K with Berries,8,Deli Food,,Lunch|Dinner
+148,Combo Eats for 2,15,Diner,,Lunch|Dinner
+149,Oooh Brownies,5,Other,Gluten,Lunch|Dinner
+150,Chicken SP,32,Italian,,Lunch|Dinner
+151,Vanilla Ice Cream,3,Deli Food,Dairy,Lunch|Dinner
+152,Honey Chicken Sandwich,11,Chicken,Gluten,Lunch|Dinner
+153,81. Shahi Paneer,20,Indian,Dairy,Lunch|Dinner
+154,Flat Iron Steak,19,Deli Food,,Lunch|Dinner
+155,milano mint chocolate,6,Deli Food,,Lunch|Dinner
+156,Iced Tea,4,Other,,Lunch|Dinner
+157,Shrimp Mofongo | Camaron Mofongo,18,Latin American,Seafood,Lunch|Dinner
+158,Mushroom Omelette Platter,10,Burgers,Dairy|Eggs,Breakfast
+159,"French Toast , Pancakes with Mixed Berries",9,Burgers,Gluten|Eggs,Breakfast
+160,C34. Mixed Vegetable Combination Plate,11,Chinese,,Lunch|Dinner
+161,M25. Thanksgiving Sandwich,9,Deli Food,Gluten,Lunch|Dinner
+162,Fettuccini Pesto,20,Diner,Nuts,Lunch|Dinner
+163,C1. Pork Chow Mein Combo Platter,14,Chinese,Dairy,Lunch|Dinner
+164,Lactaid Milk Half Gallon,8,Deli Food,Dairy,Lunch|Dinner
+165,Lunch - Tofu Salad,12,Japanese,Soy,Lunch
+166,Tres Leches,9,Diner,,Lunch|Dinner
+167,Can Soda,2,Other,,Lunch|Dinner
+168,Mushroom Cucumber,6,Japanese,,Lunch|Dinner
+169,Southern Fried Chicken Salad Platter,110,American,Dairy,Lunch|Dinner
+170,Leche Cortada,4,Latin American,,Lunch|Dinner
+171,Chicken Caesar Panini,16,Diner,Gluten,Lunch|Dinner
+172,Tuna Carpaccio,19,Other,Seafood,Lunch|Dinner
+173,Umeshiso Roll,4,Japanese,,Lunch|Dinner
+174,Stove Top Chicken,17,American,,Lunch|Dinner
+175,Mexican Omelette,15,Burgers,Eggs,Breakfast
+176,Pico de Gallo,7,Chicken,,Lunch|Dinner
+177,Big Breakfast® with Hotcakes,9,American,Gluten,Breakfast
+178,Jumbo Shrimp Cocktail,28,Other,Seafood,Lunch|Dinner
+179,L25. Sliced Beef Hunan Style Lunch,13,Chinese,,Lunch
+180,S4. Beef Szechuan Style Special,16,Chinese,,Lunch|Dinner
+181,Creamy Egg Cream,4,Diner,Dairy|Eggs,Breakfast
+182,85. Curry Vegetarian Fried Rice,17,Asian,,Lunch|Dinner
+183,Sushi Lunch,18,Asian,Seafood,Lunch
+184,Sauteed Calves Liver,28,American,,Lunch|Dinner
+185,Shrimp Kushiyaki,10,Japanese,Seafood,Lunch|Dinner
+186,C5. Sweet and Sour Chicken Combo Dinner Platter,13,Chinese,Dairy,Dinner
+187,S8. Rice Soup,8,Other,,Lunch|Dinner
+188,107. Chocolate Mousse Cup,5,Other,,Lunch|Dinner
+189,Green Salad Tray,55,Japanese,,Lunch|Dinner
+190,Belgian Waffle Deluxe,23,Diner,Gluten,Breakfast
+191,Athens Panini,7,Deli Food,Gluten,Lunch|Dinner
+192,Macaroni and Cheese,9,Deli Food,Dairy,Lunch|Dinner
+193,Tuna,4,Japanese,Seafood,Lunch|Dinner
+194,34. Wonton Soup,4,Chinese,,Lunch|Dinner
+195,Linguine Vongole,25,Italian,Gluten,Lunch|Dinner
+196,Chicken Fajita Rollup,27,American,,Lunch|Dinner
+197,Jumbo Hot Pretzel,14,American,,Lunch|Dinner
+198,Mussels Appetizer Lunch,13,Other,Seafood,Lunch
+199,Yellowtail Jalapeno Appetizer,13,Japanese,,Lunch|Dinner
+200,Purina Dog Chow,10,Deli Food,,Lunch|Dinner
+201,Canned Soda,1,Italian,,Lunch|Dinner
+202,Egg Cream Soda,6,Diner,Dairy|Eggs,Breakfast
+203,20. Spare Ribs with Garlic Sauce Lunch Special,10,Japanese,,Lunch
+204,M26. Buffalo Wing Sandwich,13,Deli Food,Gluten,Lunch|Dinner
+205,Hash Benedict Certified Angus,15,Diner,Eggs,Breakfast
+206,Rigatoni agli Spinach,22,Italian,,Lunch|Dinner
+207,12. Tatsuda Age,8,Japanese,,Lunch|Dinner
+208,Tropical Salad,21,Italian,,Lunch|Dinner
+209,Baked Sweet Potato,5,Diner,,Lunch|Dinner
+210,Arizona,4,Other,,Lunch|Dinner
+211,Sprite,3,Italian,,Lunch|Dinner
+212,Roasted Veggies Club Sandwich,11,American,Gluten,Lunch|Dinner
+213,9. BLT with Cheese Wrap,8,Burgers,Dairy|Gluten,Lunch|Dinner
+214,Croque Madame Sandwich,17,Other,Gluten,Lunch|Dinner
+215,"20"" Savory Tomato Pizza",29,Other,Gluten,Lunch|Dinner
+216,Seafood Teriyaki,21,Chinese,Seafood|Soy,Lunch|Dinner
+217,4 Piece Wings - Traditional,8,Chicken,,Lunch|Dinner
+218,"1. 1/2 Fried Chicken, Special Fried Rice and Salad",15,Chinese,,Lunch|Dinner
+219,Vegetarian Greek Omelette,24,American,Eggs,Breakfast
+220,Sushi and Sashimi Combo,35,Asian,Seafood,Lunch|Dinner
+221,White Fish Salad Sandwich,16,Deli Food,Gluten|Seafood,Lunch|Dinner
+222,Meatball Parmigiana Hero,8,Italian,Dairy|Gluten,Lunch|Dinner
+223,Blackened Chicken Sandwich Lunch,14,Other,Gluten,Lunch
+224,Gluten Free Waffle Brunch,16,American,Gluten,Breakfast
+225,Fruit Salad,7,Other,,Lunch|Dinner
+226,Black and White Cookie,3,Other,Gluten,Lunch|Dinner
+227,218. Hot and Spicy Chicken Combination Platter,10,Chinese,Dairy,Lunch|Dinner
+228,23. Cracked Pepper Turkey Sandwich,17,Deli Food,Gluten,Lunch|Dinner
+229,5. Chicken Salad,7,Burgers,,Lunch|Dinner
+230,J16. Liquid Muscle Fruithie,5,Other,,Lunch|Dinner
+231,Camarones al Ajillo,22,Latin American,,Lunch|Dinner
+232,Spring Roll,2,Chinese,Gluten,Lunch|Dinner
+233,G. Vegetarian Roll Platter Tray,115,Japanese,Dairy,Lunch|Dinner
+234,16 oz. Iced Blended Latte,6,Deli Food,Dairy,Lunch|Dinner
+235,Cajun Chicken Rolls,11,American,,Lunch|Dinner
+236,Red Goddess Roll,19,Japanese,,Lunch|Dinner
+237,Gluten-Free Stir-Fried Spinach,14,Other,,Lunch|Dinner
+238,buffalo fried cauliflower,11,American,,Lunch|Dinner
+239,Grapefruit Juice,4,Other,,Lunch|Dinner
+240,Shrimp Tempura Roll,8,Japanese,Seafood,Lunch|Dinner
+241,7 oz. Cheese Burger,5,Burgers,Dairy|Gluten,Lunch|Dinner
+242,Boars head Spiced Ham Sandwich,8,American,Gluten,Lunch|Dinner
+243,Beef Patties,4,Latin American,,Lunch|Dinner
+244,18.50 oz. Pure Leaf Pomegranate,4,Deli Food,,Lunch|Dinner
+245,Pollo Burrito,15,Mexican,Gluten,Lunch|Dinner
+246,Pizza Burger,8,American,Gluten,Lunch|Dinner
+247,Veggie Burger,7,Deli Food,Gluten,Lunch|Dinner
+248,Duck Buns,9,Japanese,Gluten,Lunch|Dinner
+249,Bacon Ranch Grilled Chicken Sandwich,26,American,Gluten,Lunch|Dinner
+250,Moroccan Beef Cigars,17,Chinese,,Lunch|Dinner
+251,Salmon,6,Japanese,Seafood,Lunch|Dinner
+252,Shrimp Mini Mofongo,11,Italian,Seafood,Lunch|Dinner
+253,98. Sweet and Sour Pork,13,Asian,,Lunch|Dinner
+254,Value Meal #1,14,Chicken,,Lunch|Dinner
+255,Sauteed Spinach,7,Other,,Lunch|Dinner
+256,Glass of Cabernet Sauvignon,5,American,,Lunch|Dinner
+257,N2. Chicken Nacho,7,Mexican,,Lunch|Dinner
+258,Pan Seared Cod,24,Italian,Seafood,Lunch|Dinner
+259,Eel Avocado Roll (Served at Dinner),15,Other,Seafood,Dinner
+260,Broiled Shrimp,34,Diner,Seafood,Lunch|Dinner
+261,Chocolate Cake Pop,5,Other,Gluten,Lunch|Dinner
+262,Nova on a Bagel,18,American,Gluten,Breakfast
+263,Dashi-Maki Tamagoyaki,6,Japanese,Seafood,Lunch|Dinner
+264,Cranberry Mors,6,Other,,Lunch|Dinner
+265,Papas del Dia with 4 Golpes,12,Latin American,,Lunch|Dinner
+266,Toast,2,Diner,Gluten,Lunch|Dinner
+267,F. White Meat Chicken Noodle Soup,7,Chinese,Gluten,Lunch|Dinner
+268,French Roll,2,Other,,Lunch|Dinner
+269,Fresh Fruit and Berry Salad,10,Diner,,Lunch|Dinner
+270,Escarole and Sunchoke,16,Italian,,Lunch|Dinner
+271,C7. Bar-b-q Spare Ribs Combination Plate,20,Chinese,,Lunch|Dinner
+272,Teriyaki Grilled Salmon,14,American,Seafood|Soy,Lunch|Dinner
+273,57. Rainbow Special Roll,15,Japanese,,Lunch|Dinner
+274,4. Italiano Sandwich,9,Burgers,Gluten,Lunch|Dinner
+275,KingFisher 12oz,6,Indian,Seafood,Lunch|Dinner
+276,Cinnamon Pastry Horn,3,Diner,,Lunch|Dinner
+277,Pepperoni Roll,9,Other,,Lunch|Dinner
+278,Crispy Chicken Sandwich,11,Burgers,Gluten,Lunch|Dinner
+279,Kimchi Pork Don,24,Japanese,,Lunch|Dinner
+280,The Roasted Turkey Cuban Panini Sandwich,12,Diner,Gluten,Lunch|Dinner
+281,Beef Sauteed,34,Other,,Lunch|Dinner
+282,Spinach Sautéed or Steamed,11,Italian,,Lunch|Dinner
+283,12 oz. Sapporo,5,Japanese,,Lunch|Dinner
+284,TUNA TATAKI,19,Japanese,Seafood,Lunch|Dinner
+285,Cappuccino,6,Diner,Dairy,Lunch|Dinner
+286,Coffee,2,Diner,,Lunch|Dinner
+287,Pollack Steak Fish,15,Other,Seafood,Lunch|Dinner
+288,Shaken Margarita,10,Mexican,,Lunch|Dinner
+289,Uludag (Turkish Soda),3,Other,,Lunch|Dinner
+290,47. Chicken Mein Fun,12,Chinese,,Lunch|Dinner
+291,Lunch Chicken Negimaki Combo,16,Japanese,Seafood,Lunch
+292,Maryland Crab Cake,24,Other,Gluten|Seafood,Lunch|Dinner
+293,Side order of Marinara Dipping sauce,5,Other,,Lunch|Dinner
+294,Kids Corn Dog,16,American,,Lunch|Dinner
+295,Teriyaki Sauce,1,Japanese,Soy,Lunch|Dinner
+296,Gnocchi Pesto,13,Italian,Nuts|Gluten,Lunch|Dinner
+297,14. Virginia Ham Omelette,12,Diner,Eggs,Breakfast
+298,3 Chocolate Lava Crunch Cakes,7,American,Gluten,Lunch|Dinner
+299,Carne Asada,29,Mexican,,Lunch|Dinner
+300,Mixed Tagliatelle Alfredo & Chicken,22,Italian,Dairy,Lunch|Dinner
+301,Steak Tartare,31,Other,,Lunch|Dinner
+302,4 Grasshopper Donuts,12,Other,Gluten,Lunch|Dinner
+303,128. Tempura Zaru Soba,15,Japanese,,Lunch|Dinner
+304,French Toast,10,Diner,Gluten|Eggs,Breakfast
+305,Side order chestnut stuffing,7,Diner,,Lunch|Dinner
+306,Home Made Fruit Punch,2,Chicken,,Lunch|Dinner
+307,Katz's Tongue Sandwich,30,Deli Food,Gluten,Lunch|Dinner
+308,Asian Mixed Vegetables Lunch Platter,12,Japanese,Dairy,Lunch
+309,Gatorade,4,American,,Lunch|Dinner
+310,Strawberry Shortcake Shake To Go,8,Other,Gluten,Lunch|Dinner
+311,Waffle with Blueberry Preserves,8,Diner,Gluten,Breakfast
+312,Smoothie,7,Chinese,,Lunch|Dinner
+313,Goat Palak,16,Indian,,Lunch|Dinner
+314,Pork Shish Ke-bob,24,Diner,,Lunch|Dinner
+315,Pasta Kit,25,Deli Food,Gluten,Lunch|Dinner
+316,Mattar Paneer,17,Indian,Dairy,Lunch|Dinner
+317,Waikiki Roll,16,Japanese,,Lunch|Dinner
+318,125. Seafood Mei Fun,16,Chinese,Seafood,Lunch|Dinner
+319,1 lb Smoked Whitefish,28,Deli Food,Seafood,Lunch|Dinner
+320,Carnitas de Rez,13,Latin American,,Lunch|Dinner
+321,Chocolate Layer Cake,4,Diner,Gluten,Lunch|Dinner
+322,1/2 lb. Hummus,10,American,,Lunch|Dinner
+323,82b. Homemade Soft Bean Curd,13,Other,Soy,Lunch|Dinner
+324,Sauteed Fried Chicken and Egg Plant Bento Box,16,Japanese,Eggs,Breakfast
+325,Maduros,8,Other,,Lunch|Dinner
+326,Double Espresso,5,Other,,Lunch|Dinner
+327,103. Quart of Bean Curd with Broccoli and Snow Peas,16,Chinese,Soy,Lunch|Dinner
+328,Slice of 7 Layer Cake,9,Deli Food,Gluten,Lunch|Dinner
+329,Sauteed Kale and Shrimp Salad,9,American,Seafood,Lunch|Dinner
+330,Deli Omelette,26,Deli Food,Eggs,Breakfast
+331,Sausage,38,Italian,,Lunch|Dinner
+332,Vegetarian Curry Hot Pot,19,Other,,Lunch|Dinner
+333,Build Your Own Nacho Bar,40,American,,Lunch|Dinner
+334,Stacy chips multlGAIN,5,Deli Food,,Lunch|Dinner
+335,Side of Turkey Bacon,8,Diner,,Lunch|Dinner
+336,Burrito de Camarones,23,Mexican,Gluten,Lunch|Dinner
+337,Rosemary Fingerling Potatoes Tray,30,Other,,Lunch|Dinner
+338,Mojito,1,Latin American,,Lunch|Dinner
+339,Veal Scaloppine W/ Lemon & Butter,48,Italian,Dairy,Lunch|Dinner
+340,Havana Tropical Salad,13,Other,,Lunch|Dinner
+341,106. Tai Chen Chicken,16,Chinese,,Lunch|Dinner
+342,Home Fries,5,Burgers,,Breakfast
+343,Onion and Green Pepper Omelette,10,Burgers,Eggs,Breakfast
+344,Veggie Cheeseburger,13,Burgers,Dairy|Gluten,Lunch|Dinner
+345,Carrot Cake,5,Italian,Gluten,Lunch|Dinner
+346,Steamed Shrimp with Snow Pea Pods,17,Chinese,Seafood,Lunch|Dinner
+347,Medoc,162,Other,,Lunch|Dinner
+348,Garden Omelette Brunch,20,American,Eggs,Breakfast
+349,Mango Lassi,6,Other,Dairy,Lunch|Dinner
+350,Chipotle Skirt Steak Sandwich,26,American,Gluten,Lunch|Dinner
+351,Packer Burger,15,American,Gluten,Lunch|Dinner
+352,106. Tomato Chutney,2,Indian,,Lunch|Dinner
+353,Polish Kielbasa Sandwich,10,Diner,Gluten,Lunch|Dinner
+354,Chicken Sukiyaki,18,Japanese,,Lunch|Dinner
+355,SP9. Roast Pork with Garlic Sauce Special Combination Platter,12,Chinese,Dairy,Lunch|Dinner
+356,Side of Bacon,12,Diner,,Lunch|Dinner
+357,Chicken Truffle Mac 'n Cheese Wrap,18,Burgers,Dairy|Gluten,Lunch|Dinner
+358,Fresh Turkey Breast Overstuffed Sandwich,11,Diner,Gluten,Lunch|Dinner
+359,Vegan Thai Curry,20,American,,Lunch|Dinner
+360,Fried Crispy Calamari,13,Japanese,Seafood,Lunch|Dinner
+361,American Broccoli,14,Italian,,Lunch|Dinner
+362,Shrimp Tacos,20,Diner,Gluten|Seafood,Lunch|Dinner
+363,Clorox 30oz,5,Deli Food,,Lunch|Dinner
+364,Rotisserie Chicken,15,Latin American,,Lunch|Dinner
+365,Dannon Yogurt,2,Deli Food,Dairy,Lunch|Dinner
+366,Chicken Wings with Fries,10,Burgers,,Lunch|Dinner
+367,Fresh Mozzarella Specialty Sandwich,10,Deli Food,Dairy|Gluten,Lunch|Dinner
+368,Dinner Bento Box,26,Japanese,,Dinner
+369,Mexican Omelette Breakfast,9,Diner,Eggs,Breakfast
+370,ESPRESSO,4,Diner,,Lunch|Dinner
+371,French Toast,13,Diner,Gluten|Eggs,Breakfast
+372,Pechuga a la Parrilla,18,Latin American,,Lunch|Dinner
+373,Asparagus salad,18,Italian,,Lunch|Dinner
+374,Crème caramel,10,Italian,,Lunch|Dinner
+375,Home Fries,7,American,,Breakfast
+376,English Muffin,5,Diner,Gluten,Breakfast
+377,Mean Green Juice,7,Deli Food,,Lunch|Dinner
+378,Sauteed Broccoli with Butter and Garlic,8,Burgers,Dairy,Lunch|Dinner
+379,62. House Special Chow Mei Fun,14,Chinese,,Lunch|Dinner
+380,32. Pint Chicken Chow Mein,5,Chinese,,Lunch|Dinner
+381,Fettuccine Combo,26,Diner,Gluten,Lunch|Dinner
+382,California Burger,20,Diner,Gluten,Lunch|Dinner
+383,Grilled Cajun Shrimp Tray,20,Deli Food,Seafood,Lunch|Dinner
+384,4 cheese Fondue,21,Italian,Dairy,Lunch|Dinner
+385,El Greco Salad,16,Diner,,Lunch|Dinner
+386,Pint of Pimento Cheese,8,Other,Dairy,Lunch|Dinner
+387,Penne alla Vodka with Chicken,15,Italian,Gluten,Lunch|Dinner
+388,Pollo a la Parmesana,21,Latin American,Dairy,Lunch|Dinner
+389,106. Shrimp with Broccoli in Garlic Sauce,8,Chinese,Seafood,Lunch|Dinner
+390,Ray of Sunshine Smoothie,10,Diner,,Lunch|Dinner
+391,C21. Chicken with String Beans Combo Platter,14,Chinese,Dairy,Lunch|Dinner
+392,Picadillo Lunch Special,14,Chinese,,Lunch
+393,Family Shakshuka Pizza,33,Other,Gluten,Lunch|Dinner
+394,Chocolate Mousse Cake,8,Diner,Gluten,Lunch|Dinner
+395,Maple Syrup,2,Diner,,Lunch|Dinner
+396,137. Vegetable Fried Rice,14,Chinese,,Lunch|Dinner
+397,Avocado Toast Lunch,14,American,Gluten,Lunch
+398,Cortadito de Chocolate Lunch,6,Latin American,,Lunch
+399,Kheer,9,Indian,,Lunch|Dinner
+400,Ai Porcini,20,Italian,,Lunch|Dinner
+401,Scallop,9,Japanese,Seafood,Lunch|Dinner
+402,6. Yum Ped Yang Special,18,Other,,Lunch|Dinner
+403,Tempura Flakes,2,Japanese,,Lunch|Dinner
+404,Pepper Steak Hero Parmesan,6,Burgers,Dairy|Gluten,Lunch|Dinner
+405,👏Kohada or Gizzard Shad,8,Japanese,,Lunch|Dinner
+406,New York Sirloin Steak Entree,31,Diner,,Lunch|Dinner
+407,Farmer’s Burger Lunch,15,Diner,Gluten,Lunch
+408,Warak Enab Bil Zeit Platter,50,Other,Dairy,Lunch|Dinner
+409,East Side Burger,14,American,Gluten,Lunch|Dinner
+410,Pan Roasted Crispy 1/2 Chicken,28,American,,Lunch|Dinner
+411,C20. General Tso's Shrimp Combination Plate,9,Chinese,Seafood,Lunch|Dinner
+412,Sea Urchin,8,Asian,,Lunch|Dinner
+413,Lunch Insalata della Casa,7,Italian,,Lunch
+414,Red Potato Salad Party Tray,35,Chicken,,Lunch|Dinner
+415,Farfalle alla Pesto,18,Italian,Nuts,Lunch|Dinner
+416,Waffles with Ham & Cheese Omelette,13,American,Dairy|Gluten|Eggs,Breakfast
+417,Chocolate Chip Waffle,13,Diner,Gluten,Breakfast
+418,Gluten Free Chicken Ravioli Kale,14,Diner,Gluten,Lunch|Dinner
+419,CHAN-DO CHICKEN 🌶️(成都鸡),30,Chinese,,Lunch|Dinner
+420,BERRY NUTELLA PANCAKES.,18,Diner,Nuts|Gluten,Breakfast
+421,82. Eggplant with Garlic Sauce,13,Other,,Lunch|Dinner
+422,Eggplant Rollatini,10,Italian,,Lunch|Dinner
+423,"J. Hand Sliced Nova Scotia Salmon, Sturgeon and Cream Cheese Sandwich",38,Deli Food,Dairy|Gluten|Seafood,Lunch|Dinner
+424,Waffle and Fried Chicken,17,Diner,Gluten,Breakfast
+425,Caramelized Salmon,27,Other,Seafood,Lunch|Dinner
+426,BREAKFAST BURRITOS,14,Mexican,Gluten,Breakfast
+427,Franklin's Fish and Chips,19,American,Seafood,Lunch|Dinner
+428,Smashed Avocado Toast,12,American,Gluten,Lunch|Dinner
+429,Grilled Chicken Burrito,15,Mexican,Gluten,Lunch|Dinner
+430,Chocolate Rugulah,7,Other,,Lunch|Dinner
+431,Organic Gluten-Free Pasta with Feta Cheese,26,Diner,Dairy|Gluten,Lunch|Dinner
+432,Cassava Cake,9,Other,Gluten,Lunch|Dinner
+433,Sesame Chick-n Salad,18,Other,,Lunch|Dinner
+434,Hummus,9,Other,,Lunch|Dinner
+435,Buffalo Wings,8,Diner,,Lunch|Dinner
+436,CHICKEN RICE NOODLE (鸡炒米粉),25,Chinese,Gluten,Lunch|Dinner
+437,Mushroom Burger,13,Diner,Gluten,Lunch|Dinner
+438,11. Cheese Poori,5,Indian,Dairy,Lunch|Dinner
+439,Broiled Salmon Filet,15,Diner,Seafood,Lunch|Dinner
+440,169. Tofu with Broccoli,16,Chinese,Soy,Lunch|Dinner
+441,Santa Fe Salad,14,Other,,Lunch|Dinner
+442,Ensalada de Salmon Marinado,18,Other,Seafood,Lunch|Dinner
+443,Tofu and Vegetable Soup,6,Japanese,Soy,Lunch|Dinner
+444,4. Chicken with Baby Corn Lunch Special,8,Other,,Lunch
+445,Kung Ob Woon Sen (NEW!!!!),21,Other,,Lunch|Dinner
+446,Buffalo Wings,12,Diner,,Lunch|Dinner
+447,N5. Roast Pork with Vegetable Noodle Soup,14,Chinese,Gluten,Lunch|Dinner
+448,Pan Tostado,2,Latin American,,Lunch|Dinner
+449,Mac Truffle,19,Diner,Dairy,Lunch|Dinner
+450,Double Sauteed Sliced Pork,12,Chinese,,Lunch|Dinner
+451,Pina Coloda,7,Diner,,Lunch|Dinner
+452,Hand Cut Fries,7,Other,,Lunch|Dinner
+453,Fresh Mixed Berries,8,Other,,Lunch|Dinner
+454,Risotto with Kale and Shrimp,25,Italian,Seafood,Lunch|Dinner
+455,Orange Beef,36,Chinese,,Lunch|Dinner
+456,Sushi Entree,26,Japanese,Seafood,Lunch|Dinner
+457,Diet Coke,3,Diner,,Lunch|Dinner
+458,Tres leches,10,Other,,Lunch|Dinner
+459,Chicken Quesadilla,16,Diner,Dairy,Lunch|Dinner
+460,Fromage Blanc Cheesecake,8,Other,Dairy|Gluten,Lunch|Dinner
+461,L2. Chicken Cutlets Lunch Special,12,Chinese,,Lunch
+462,Ravioli Pomodoro,19,Italian,Gluten,Lunch|Dinner
+463,Salmon Cucumber Roll,8,Japanese,Seafood,Lunch|Dinner
+464,Seafood Kabob,31,Other,Seafood,Lunch|Dinner
+465,Herb Roasted Beef Sandwich,10,Other,Gluten,Lunch|Dinner
+466,Oyster Tempura Roll,8,Chinese,Seafood,Lunch|Dinner
+467,Apple Juice,4,Diner,,Lunch|Dinner
+468,Stromboli with Ham,13,Other,,Lunch|Dinner
+469,Flour Tortillas.,3,Mexican,Gluten,Lunch|Dinner
+470,L22. Beef Lo Mein Lunch Special,13,Chinese,,Lunch
+471,"ARGILLA ROSSA ""MONTEPULCIANO D'ABRUZZO"" (BOTTLE)",30,Diner,,Lunch|Dinner
+472,Strawberry Preserve,1,American,,Lunch|Dinner
+473,PJ'S PRINCESS,12,Deli Food,,Lunch|Dinner
+474,Fried Mozzarella (Full),110,Italian,Dairy,Lunch|Dinner
+475,Maryland Lump Crab Cake Sandwich,27,American,Gluten|Seafood,Lunch|Dinner
+476,Deep river sour cream onion,5,Deli Food,Dairy,Lunch|Dinner
+477,Citrus Spare Rib Riceball (Vegan),5,Japanese,,Lunch|Dinner
+478,Hiya Yakko,6,Japanese,,Lunch|Dinner
+479,Nesquik Chocolate Milk,3,Diner,Dairy,Lunch|Dinner
+480,130. Beef Egg Foo Young,17,Chinese,Eggs,Breakfast
+481,Beyond Burger,17,American,Gluten,Lunch|Dinner
+482,16. Ham and Swiss Cheese Omelette,14,Diner,Dairy|Eggs,Breakfast
+483,Grilled Portabella Mushrooms Salad,21,Diner,,Lunch|Dinner
+484,161. Pork Rib Noodle Soup,16,Chinese,Gluten,Lunch|Dinner
+485,BREAKFAST TACOS,22,Diner,Gluten,Breakfast
+486,Zeppoles,2,Burgers,,Lunch|Dinner
+487,Beef Fried Rice Lunch Special,12,Japanese,,Lunch
+488,Gigantic Ham Sandwich,8,Deli Food,Gluten,Lunch|Dinner
+489,House Mixed Seafood,32,Chinese,Seafood,Lunch|Dinner
+490,Arnold Palmer,5,Diner,,Lunch|Dinner
+491,Herring Under a Fur Coat Salad,21,Other,,Lunch|Dinner
+492,Milk Shake,6,Chinese,Dairy,Lunch|Dinner
+493,"Michelob ULTRA Light Beer, 12 Pack Beer, 12 FL OZ Cans, 4.2% ABV",23,American,,Lunch|Dinner
+494,Virginia Ham Triple Decker,12,Diner,,Lunch|Dinner
+495,11. Cold Sesame Noodle,9,Other,Gluten,Lunch|Dinner
+496,Waffles with Turkey Sausage,12,American,Gluten,Breakfast
+497,103. Beef with Snow Peas,14,Asian,,Lunch|Dinner
+498,Pasta A La Vodka,29,Diner,Gluten,Lunch|Dinner
+499,106. Braised Bean Curd with Brown Sauce,22,Chinese,Soy,Lunch|Dinner
+500,Saggio Forrest Rabbit,32,Italian,,Lunch|Dinner
+501,L21. Baby Shrimp with Chili Sauce Lunch Special,10,Chinese,Seafood,Lunch
+502,Onion Rings,10,Diner,,Lunch|Dinner
+503,Ensalada Rusa,14,Other,,Lunch|Dinner
+504,Asopao de Langosta,29,Other,,Lunch|Dinner
+505,35. Vegetarian Omelette,16,Diner,Eggs,Breakfast
+506,Provolone Cheese Sandwich W/ Lettuce & Tomato.,6,American,Dairy|Gluten,Lunch|Dinner
+507,Salmon Roe,4,Japanese,Seafood,Lunch|Dinner
+508,Bruschetta Pate Con Cipolla Rossa,12,Other,,Lunch|Dinner
+509,Badam Milk,8,Indian,Dairy,Lunch|Dinner
+510,Tuna Melt Sandwich,19,Diner,Gluten|Seafood,Lunch|Dinner
+511,KD FRIED CHICKEN LUNCH BOX 2PC W FRIES,18,Chinese,,Lunch
+512,Side Salad,6,American,,Lunch|Dinner
+513,Broccoli Roll,6,Italian,,Lunch|Dinner
+514,Shrimp Yakitori,8,Japanese,Seafood,Lunch|Dinner
+515,Adobo de Puerco,15,Mexican,,Lunch|Dinner
+516,Tuna Melt Sandwich,11,Burgers,Gluten|Seafood,Lunch|Dinner
+517,"Malbec, Terrazas Reserve",16,Other,,Lunch|Dinner
+518,Mikes Deli Special Shoestring French Fries,4,American,,Lunch|Dinner
+519,Baked Ziti,10,Other,,Lunch|Dinner
+520,Met-RX Bar,5,Deli Food,,Lunch|Dinner
+521,Chicken & Pancakes,20,American,Gluten,Breakfast
+522,Summer Split Salad,13,Deli Food,,Lunch|Dinner
+523,Vegetable Ajillo,27,Other,,Lunch|Dinner
+524,Bacon Cheeseburger,16,Diner,Dairy|Gluten,Lunch|Dinner
+525,Mixed Grill,30,American,,Lunch|Dinner
+526,1 Pound of Mini Pastries,18,Deli Food,,Lunch|Dinner
+527,Baked Potato,6,Diner,,Lunch|Dinner
+528,Baked Meatloaf,24,Diner,,Lunch|Dinner
+529,Pork Ramen,16,Japanese,Gluten,Lunch|Dinner
+530,Crunchy Spicy Crab,8,Other,Seafood,Lunch|Dinner
+531,Greek Omelet,5,Deli Food,Eggs,Breakfast
+532,Get Up Greg,10,Other,,Lunch|Dinner
+533,Fried Pork Chops,24,Asian,,Lunch|Dinner
+534,PB ACAI BOWLS,12,Other,,Lunch|Dinner
+535,Stella Artois Beer,8,Italian,,Lunch|Dinner
+536,Tuna Flight,42,Japanese,Seafood,Lunch|Dinner
+537,Rolls Combo B Entree,22,Japanese,,Lunch|Dinner
+538,Tuna Salad Garnish,11,Burgers,Seafood,Lunch|Dinner
+539,Apple Crumb Cake,10,Italian,Gluten,Lunch|Dinner
+540,Quesadilla Grande,13,Mexican,Dairy,Lunch|Dinner
+541,Asahi 12oz,5,Japanese,,Lunch|Dinner
+542,Mexican Wrap,13,Burgers,Gluten,Lunch|Dinner
+543,Slow Cooked Roast Beef Sandwich,23,Deli Food,Gluten,Lunch|Dinner
+544,Baby Bok-Choy with Garlic Sauce,19,Chinese,,Lunch|Dinner
+545,2 Liter Soda,6,American,,Lunch|Dinner
+546,Grilled Chicken Sandwich,14,Diner,Gluten,Lunch|Dinner
+547,Mixed Oshinko,8,Asian,,Lunch|Dinner
+548,Mushroom Omelette,13,Diner,Eggs,Breakfast
+549,Cheeseburger,5,American,Dairy|Gluten,Lunch|Dinner
+550,"PENEDO BORGES ""MALBEC"" (BOTTLE)",30,Diner,,Lunch|Dinner
+551,Pappardelle Bolognese,25,Italian,,Lunch|Dinner
+552,N2. Pickled Cabbage with Pork Noodle Soup,14,Chinese,Gluten,Lunch|Dinner
+553,Zen Rolls With Dill Vegenaise Dressing,10,Other,,Lunch|Dinner
+554,40 C. Kimchi Soon Doo Boo Chi Gae 김치 순두부,18,Other,,Lunch|Dinner
+555,Churros,10,Other,,Lunch|Dinner
+556,Hand Cut Fries,10,American,,Lunch|Dinner
+557,Spinach Omelette Sandwich,6,American,Gluten|Eggs,Breakfast
+558,Amstel Light,6,Other,,Lunch|Dinner
+559,Roasted Brussels Sprouts with Bacon,12,Italian,,Lunch|Dinner
+560,51. Cari Tom,25,Asian,,Lunch|Dinner
+561,Samosa,10,Indian,,Lunch|Dinner
+562,Conque Monsieur,18,Other,,Lunch|Dinner
+563,Bordelaise,7,Other,,Lunch|Dinner
+564,74. Jeera Dal,18,Indian,,Lunch|Dinner
+565,Christmas roll,13,Japanese,,Lunch|Dinner
+566,Eel Avocado Roll,7,Chinese,Seafood,Lunch|Dinner
+567,Nantucket Clam Chowder Soup,5,American,Seafood,Lunch|Dinner
+568,Salmon Tuna Rollover Roll,17,Japanese,Seafood,Lunch|Dinner
+569,Red Snapper,42,Other,Seafood,Lunch|Dinner
+570,Red Miso Soup,7,Japanese,Soy,Lunch|Dinner
+571,Malai Kofta,16,Indian,,Lunch|Dinner
+572,Cinnamon Sticks,4,Diner,,Lunch|Dinner
+573,White Rice,2,Chinese,,Lunch|Dinner
+574,Spinach Knish,6,Other,,Lunch|Dinner
+575,Croque Monsieur Sandwich Brunch,14,Other,Gluten,Lunch|Dinner
+576,112. Roast Pork Egg Foo Young,19,Chinese,Eggs,Breakfast
+577,Scallion Pancake,6,Japanese,Gluten,Breakfast
+578,Edamame,4,Japanese,Soy,Lunch|Dinner
+579,Chopped Chicken Liver,16,Deli Food,,Lunch|Dinner
+580,L11. Chicken and Vegetable Tempura Lunch Box,13,Japanese,,Lunch
+581,60. Roast Pork Chow Mein Meat and Vegtables,9,Asian,,Lunch|Dinner
+582,8 Pieces Garlic Parmesan Wings,9,American,Dairy,Lunch|Dinner
+583,GF Lunch Salami,13,Other,,Lunch
+584,Gari's Raifuku Junmai Ginjo,100,Japanese,,Lunch|Dinner
+585,Sushi Party Platter B,179,Other,Dairy|Seafood,Lunch|Dinner
+586,soup of the day / Vegetarian Lentil Soup,12,Other,,Lunch|Dinner
+587,Slice of Pizza,3,Other,Gluten,Lunch|Dinner
+588,Golden Brown French Toast,6,Deli Food,Gluten|Eggs,Breakfast
+589,Croissant,5,American,Gluten,Breakfast
+590,Chicken Negimaki Bento Box Diner,19,Japanese,Seafood,Lunch|Dinner
+591,118. Chicken with Broccoli,8,Chinese,,Lunch|Dinner
+592,Salmon and Tuna Poke Bento Box,23,Japanese,Seafood,Lunch|Dinner
+593,Cayenne Pepper with Dried Bean Curd and Beef Rice Box,14,Asian,Soy,Lunch|Dinner
+594,L4. Kung Po Chicken Lunch Special,11,Chinese,,Lunch
+595,lagunitas hazy memory,8,American,,Lunch|Dinner
+596,Cornflakes Chicken Sandwich,17,Deli Food,Gluten,Lunch|Dinner
+597,C12. Scallops and Seafood Rice Combo,11,Other,Seafood,Lunch|Dinner
+598,C. Virginia Fields,8,Other,,Lunch|Dinner
+599,Filet Mignon & Lobster Tail,74,Other,Seafood,Lunch|Dinner
+600,W4. Hummus with Grilled Chicken Wrap,14,Deli Food,Gluten,Lunch|Dinner
+601,Batido de Malteada,8,Latin American,,Lunch|Dinner
+602,Fried Pork Chops and Steak with Onions MVP,37,Latin American,,Lunch|Dinner
+603,G4. Goong-Pad Ped,20,Other,,Lunch|Dinner
+604,110. Shrimp with Chinese Broccoli,8,Chinese,Seafood,Lunch|Dinner
+605,Grilled Chicken Caesar Wrap,16,Diner,Gluten,Lunch|Dinner
+606,Bottled Soda,3,Other,,Lunch|Dinner
+607,Bagel with Cream Cheese and Bacon,7,Chicken,Dairy|Gluten,Breakfast
+608,Paul Goerg Brut Rose,25,Other,,Lunch|Dinner
+609,Deep Dish Ravioli Veggie “lasagna”,23,American,Gluten,Lunch|Dinner
+610,Chicken Katsu,18,Japanese,,Lunch|Dinner
+611,Eel Avocado,8,Japanese,Seafood,Lunch|Dinner
+612,Red Quinoa and Lentil Tabbouleh,12,Other,,Lunch|Dinner
+613,Fried Salami Sandwich,5,Burgers,Gluten,Lunch|Dinner
+614,Aloo Gobi,18,Indian,,Lunch|Dinner
+615,Cheese Omelette,12,Diner,Dairy|Eggs,Breakfast
+616,Pad Garlic,11,Other,,Lunch|Dinner
+617,C1. Tuna Melt Combo,11,Other,Seafood,Lunch|Dinner
+618,Stewed Beef,7,Latin American,,Lunch|Dinner
+619,Pesto Pasta Tray,125,Italian,Nuts|Gluten,Lunch|Dinner
+620,Shrimp Pan Fried Noodle,16,Chinese,Gluten|Seafood,Lunch|Dinner
+621,Wood Oven Roasted Vegetables,7,Other,,Lunch|Dinner
+622,Shrimp Salad served on a bed of lettuce and tomato,18,Diner,Seafood,Lunch|Dinner
+623,Ham and American Cheese Triple Decker,11,Diner,Dairy,Lunch|Dinner
+624,Ginger Ale,2,Other,,Lunch|Dinner
+625,CAPRINO alle ERBE,96,Other,,Lunch|Dinner
+626,Bacalao a la Vizcaina,36,Other,,Lunch|Dinner
+627,Chicken Cacciatore,26,Italian,,Lunch|Dinner
+628,Picnic Box,10,Chicken,,Lunch|Dinner
+629,Brisket of Beef Sandwich,21,Diner,Gluten,Lunch|Dinner
+630,Egg Sald & Smoked Salmon,19,Other,Eggs|Seafood,Breakfast
+631,Carrot Juice,8,Other,,Lunch|Dinner
+632,"C9. Four Piece Shrimp, 6 Piece Crabsticks and French Fries Combo",12,Other,Seafood,Lunch|Dinner
+633,"Scaloppine Di Vitello Con Pomodoro, Olive, Origano E Fior Di Latte",44,Italian,Dairy,Lunch|Dinner
+634,Banana Or Blueberry Pancakes,6,Diner,Gluten,Breakfast
+635,6 Piece Mozzarella Sticks,10,American,Dairy,Lunch|Dinner
+636,Chicken ala Orion,21,Diner,,Lunch|Dinner
+637,Horse Mackerel Sashimi,22,Japanese,Seafood,Lunch|Dinner
+638,L6. Beef with Broccoli Lunch Special,19,Chinese,,Lunch
+639,Crunchy Cheese Cheetos,2,Deli Food,Dairy,Lunch|Dinner
+640,4. Aji Special Lunch,15,Japanese,,Lunch
+641,Veggie Burger,12,Diner,Gluten,Lunch|Dinner
+642,Pargo al Horno,30,Latin American,,Lunch|Dinner
+643,Teriyaki Salmon,26,Asian,Seafood|Soy,Lunch|Dinner
+644,Crostini Con Alici,8,Italian,,Lunch|Dinner
+645,Spinach Roll,6,Japanese,,Lunch|Dinner
+646,Shrimp Roll,2,Chinese,Seafood,Lunch|Dinner
+647,Chicken Sandwich with Lettuce Tomato maynonnaise ketchup,6,Chicken,Gluten,Lunch|Dinner
+648,1. Classic Grilled Chicken Sandwich,8,Deli Food,Dairy|Gluten,Lunch|Dinner
+649,Side Gluten Free Pasta with Marinara Sauce,20,Diner,Gluten,Lunch|Dinner
+650,Mixed Chicken,9,Chicken,,Lunch|Dinner
+651,Marinated Garlic Shrimp Burrito,16,Mexican,Gluten|Seafood,Lunch|Dinner
+652,Egg Foo Young,14,Chinese,Eggs,Breakfast
+653,270. Mee Fun,12,Chinese,,Lunch|Dinner
+654,Eggs any Style,15,Diner,Eggs,Breakfast
+655,Bottled Water (1L),11,Other,,Lunch|Dinner
+656,Crispy Orange Chicken,36,Other,,Lunch|Dinner
+657,Mounds candy bar,2,American,,Lunch|Dinner
+658,Canary Roll,7,Other,,Lunch|Dinner
+659,Corona Bottles,15,American,,Lunch|Dinner
+660,Corn Baked Tortillas,4,Other,Gluten,Lunch|Dinner
+661,Pepsi,3,Diner,,Lunch|Dinner
+662,Homemade Ice Cream.,10,Italian,Dairy,Lunch|Dinner
+663,Paratha,4,Other,,Lunch|Dinner
+664,The Royal King Club Sandwich,16,Diner,Gluten,Lunch|Dinner
+665,Grilled 3 Cheeses Sandwich,18,American,Dairy|Gluten,Lunch|Dinner
+666,6 Pieces Broiled Jumbo Shrimp Scampi,30,Diner,Seafood,Lunch|Dinner
+667,SEA BASS IN HOT BEAN SAUCE 🌶️ (豆瓣鱼片),36,Chinese,,Lunch|Dinner
+668,Egg Sandwich with Patty Pork Sausage,6,American,Gluten|Eggs,Breakfast
+669,Organic Chocolate Bars,6,American,,Lunch|Dinner
+670,Golden Shrimp,21,Asian,Seafood,Lunch|Dinner
+671,Corned Beef Hash,16,American,,Lunch|Dinner
+672,Chicken Salad Sandwich,10,Diner,Gluten,Lunch|Dinner
+673,Sea Urchin,9,Asian,,Lunch|Dinner
+674,5. Chicken Marsala Special,33,Diner,,Lunch|Dinner
+675,Spider Maki Roll,14,Japanese,Seafood,Lunch|Dinner
+676,Manzana la ecuatoriana,1,Other,,Lunch|Dinner
+677,Salmon Or Sardines,6,Diner,Seafood,Lunch|Dinner
+678,SPICY WONTONS [10],9,Asian,,Lunch|Dinner
+679,Arroz con Camarones,23,Latin American,,Lunch|Dinner
+680,Baked Manicotti,10,Italian,,Lunch|Dinner
+681,Farmers Breakfast Omelette,20,American,Eggs,Breakfast
+682,Chicken special,32,Italian,,Lunch|Dinner
+683,Arnold Palmer,5,American,,Lunch|Dinner
+684,Ritter Sports,4,Chicken,,Lunch|Dinner
+685,Rigatoni alla Boscaiola,19,American,,Lunch|Dinner
+686,Side Beets,9,Other,,Lunch|Dinner
+687,Entrana,29,Mexican,,Lunch|Dinner
+688,HUEVOS RANCHEROS,18,Italian,,Lunch|Dinner
+689,Arugula Salad,12,Diner,,Lunch|Dinner
+690,16 oz. Certified Aged Black Angus New York Sirloin Steak,34,Diner,,Lunch|Dinner
+691,Trident Gum,2,Deli Food,,Lunch|Dinner
+692,Salami Sandwich,11,Deli Food,Gluten,Lunch|Dinner
+693,Shrimp and Beef Steak Teriyaki,25,Japanese,Seafood|Soy,Lunch|Dinner
+694,Original Hot Wings with sauce hot or BBQ and Fries,13,Chicken,,Lunch|Dinner
+695,Risotto with Asparagus and Shrimp,25,Italian,Seafood,Lunch|Dinner
+696,Mozzarella Sticks,22,American,Dairy,Lunch|Dinner
+697,12” Gamberoni Carciofi,15,Other,,Lunch|Dinner
+698,Sashimi Lunch,20,Asian,Seafood,Lunch
+699,Spinach and Mushroom Omelette,10,Other,Eggs,Breakfast
+700,Sushi Entree,25,Japanese,Seafood,Lunch|Dinner
+701,Tuna Salad Wrap,8,Burgers,Gluten|Seafood,Lunch|Dinner
+702,Chicken Lo Mein Tray,52,Chinese,,Lunch|Dinner
+703,2 Eggs Any Style Breakfast,8,Diner,Eggs,Breakfast
+704,1 Egg on Bagel,4,American,Gluten|Eggs,Breakfast
+705,Roasted Butternut Squash and Arugula Salad,14,Other,Dairy,Lunch|Dinner
+706,Impossible Patty,20,American,,Lunch|Dinner
+707,Jarritos Grapefruit Soda,4,Mexican,,Lunch|Dinner
+708,8 oz. Low Cholesterol Bison Burger on Brioche - Deluxe,16,Diner,Gluten,Lunch|Dinner
+709,Small Sesame Beef,18,Other,,Lunch|Dinner
+710,Vodka Parm Chicken,25,Other,,Lunch|Dinner
+711,Corn Pudding Cake,2,Other,Gluten,Lunch|Dinner
+712,Pies,5,Diner,,Lunch|Dinner
+713,Snapple,4,Deli Food,,Lunch|Dinner
+714,BEEF BROCCOLI (芥兰牛),36,Chinese,,Lunch|Dinner
+715,Fried Noodle,1,Chinese,Gluten,Lunch|Dinner
+716,12. Whiting Fish Sandwich,6,Chicken,Gluten|Seafood,Lunch|Dinner
+717,Vegetable Roll,4,Japanese,,Lunch|Dinner
+718,Fresh Mozzarella or Any Cheese,14,Deli Food,Dairy,Lunch|Dinner
+719,Cheeseburger,11,Diner,Dairy|Gluten,Lunch|Dinner
+720,L4. Pork Lo Mein Lunch,10,Chinese,,Lunch
+721,Langosta Enchilada,45,Other,,Lunch|Dinner
+722,Feta Cheese,7,Diner,Dairy,Lunch|Dinner
+723,French fries,6,Mexican,,Lunch|Dinner
+724,Queso y Pollo Mofongo,18,Latin American,Dairy,Lunch|Dinner
+725,The Milano,23,Diner,,Lunch|Dinner
+726,Coke,6,Other,,Lunch|Dinner
+727,Filetto di Maiale al Pepe,29,Italian,,Lunch|Dinner
+728,Brunch Tater Tots,5,Italian,,Lunch|Dinner
+729,Pork Sausage Omelette,13,Burgers,Eggs,Breakfast
+730,Smoked Sable with Cream Cheese on a Bagel,31,Deli Food,Dairy|Gluten,Breakfast
+731,Iced Sugar Cookies!!!,2,Other,Gluten,Lunch|Dinner
+732,Bacon,7,American,,Lunch|Dinner
+733,House Special Lo Mein,13,Chinese,,Lunch|Dinner
+734,Tofu Scallion Spread on a Bagel,6,Other,Gluten|Soy,Breakfast
+735,Seaweed Salad,5,Japanese,,Lunch|Dinner
+736,Pork Fried Dumpling 4pcs,12,Chinese,Gluten,Lunch|Dinner
+737,S35. Mango Chicken,20,Chinese,,Lunch|Dinner
+738,"Homemade pappardelle, shrimp, broccoli, cherry tomatoes, garlic oil sauce",30,Italian,Seafood,Lunch|Dinner
+739,Mixed Steam Vegetable Platter,21,Diner,Dairy,Lunch|Dinner
+740,Pop Corn Shrimp,8,Japanese,Seafood,Lunch|Dinner
+741,Soup of the Day,9,American,,Lunch|Dinner
+742,Reed's Ginger Beer,5,Diner,,Lunch|Dinner
+743,Chicken Quesadillas Dozen,24,Deli Food,Dairy,Lunch|Dinner
+744,139. Moo Shu Beef,16,Chinese,,Lunch|Dinner
+745,Nabisco unsalted tops cracker 16oz,7,American,,Lunch|Dinner
+746,Huevos con Nopales,12,Mexican,,Lunch|Dinner
+747,Pineaple Fried Rice Lunch Special,11,Japanese,,Lunch
+748,Ravioles De Hongos Porcini en Salsa De Hongos,29,Other,,Lunch|Dinner
+749,Chorizo con Huevo Torta,9,Mexican,,Lunch|Dinner
+750,Pepper Jack Omelette,12,Diner,Eggs,Breakfast
+751,62. Sliced Beef with Broccoli,20,Chinese,,Lunch|Dinner
+752,Sundried Tomatoes,7,Other,,Lunch|Dinner
+753,15. Prosciutto Brick Oven Sandwich,12,Deli Food,Gluten,Lunch|Dinner
+754,Greek Salad,10,Deli Food,,Lunch|Dinner
+755,Yamagata Masamune,60,Japanese,,Lunch|Dinner
+756,SPRITE (雪碧),4,Chinese,,Lunch|Dinner
+757,Pie Á La Mode,9,Diner,,Lunch|Dinner
+758,The Rev. Thomas Johnson Waffle,24,Other,Gluten,Breakfast
+759,General Tao's Shrimp,21,Chinese,Seafood,Lunch|Dinner
+760,Side Lemon Potatoes,10,Other,,Lunch|Dinner
+761,J80. Philadelphia Roll,6,Other,,Lunch|Dinner
+762,Bagel chips,2,Deli Food,Gluten,Breakfast
+763,Lamb Saagwala Lunch Special,12,Indian,,Lunch
+764,Cobb salad,15,Other,,Lunch|Dinner
+765,Hotate (Served at Lunch),8,Other,,Lunch
+766,Plum,100,Other,,Lunch|Dinner
+767,Mix Soup,6,Chinese,,Lunch|Dinner
+768,Western Omelette,16,Diner,Eggs,Breakfast
+769,Sesame Bagel,2,American,Gluten,Breakfast
+770,13. Plain Noodle in Soup,6,Chinese,Gluten,Lunch|Dinner
+771,Burrata,21,Italian,,Lunch|Dinner
+772,Grilled Chicken Salad,11,Japanese,,Lunch|Dinner
+773,S5. Meeting of Sisters,15,Chinese,,Lunch|Dinner
+774,2. Shrimp Roll,2,Chinese,Seafood,Lunch|Dinner
+775,Grilled Breast of Chicken Sandwich,19,Diner,Gluten,Lunch|Dinner
+776,Kid's 2 Chicken Fingers with French Fries,15,Diner,,Lunch|Dinner
+777,B11. Yellowtail Don,26,Japanese,,Lunch|Dinner
+778,Red Wine Stained Butternut Squash Ravioli,20,Italian,Dairy|Gluten,Lunch|Dinner
+779,Cobb Wrap,17,Diner,Gluten,Lunch|Dinner
+780,French Toast Deluxe,15,Diner,Gluten|Eggs,Breakfast
+781,Arizona half fruit snacks 5oz,3,American,,Lunch|Dinner
+782,Waffle Tropical,16,Diner,Gluten,Breakfast
+783,Seared Salmon,4,Other,Seafood,Lunch|Dinner
+784,Citrus Cured Olives,7,American,,Lunch|Dinner
+785,Goat Cheese Salad Lunch Special,16,American,Dairy,Lunch
+786,Cheese Quesadilla,10,American,Dairy,Lunch|Dinner
+787,Shawki Special,9,Deli Food,,Lunch|Dinner
+788,Grilled Cheese Deli Sandwich,6,Diner,Dairy|Gluten,Lunch|Dinner
+789,SCALLION PANCAKE (葱油饼),14,Chinese,Gluten,Breakfast
+790,217. Chicken with Garlic Sauce Combination Platter,10,Chinese,Dairy,Lunch|Dinner
+791,71. Chicken with Garlic Sauce,23,Chinese,,Lunch|Dinner
+792,Chicken Parmigiana,22,Diner,Dairy,Lunch|Dinner
+793,Liverwurst,5,Deli Food,,Lunch|Dinner
+794,154. Sauteed Prawns with Roasted Chili and Peanut (Kung Pao),20,Chinese,Nuts|Seafood,Lunch|Dinner
+795,Catering Tuna Salad,55,Diner,Seafood,Lunch|Dinner
+796,7 oz. Turkey Burger,4,Burgers,Gluten,Lunch|Dinner
+797,Iced Tea,3,American,,Lunch|Dinner
+798,Chicken Souvlaki on Pita,18,Diner,Gluten,Lunch|Dinner
+799,Tuna Tartare,35,Other,Seafood,Lunch|Dinner
+800,Aperol,40,Italian,,Lunch|Dinner
+801,Fresh Lemonade,4,Diner,,Lunch|Dinner
+802,Grilled Swordfish Steak Caponatta,33,Diner,Seafood,Lunch|Dinner
+803,Apple Pie,7,Diner,,Lunch|Dinner
+804,25 Pieces - Boneless,50,Chicken,,Lunch|Dinner
+805,Toasted Bagel,4,Diner,Gluten,Breakfast
+806,Montepulciano Masciarelli 2006 (Abruzzo),9,Italian,,Lunch|Dinner
+807,Smoked Salmon On Bagel,10,Deli Food,Gluten|Seafood,Breakfast
+808,Mixed Grill,21,Other,,Lunch|Dinner
+809,Seafood Salad Lunch,19,Other,Seafood,Lunch
+810,D26. Bean Curd with Roast Pork Dinner Special,10,Asian,Soy,Dinner
+811,Espresso creme brulee,9,Diner,,Lunch|Dinner
+812,96. Beef with String Beans,23,Chinese,,Lunch|Dinner
+813,12oz Henny Colada,18,Italian,,Lunch|Dinner
+814,SHRIMP LOVER'S ROLL,19,Japanese,Seafood,Lunch|Dinner
+815,Waffle Turkey Bacon,10,Burgers,Gluten,Breakfast
+816,Creme Brulee,9,Other,,Lunch|Dinner
+817,S3. Turkey BLT Sandwich,11,Deli Food,Gluten,Lunch|Dinner
+818,33. Shrimp with Cashew Nuts Lunch Special,10,Japanese,Nuts|Seafood,Lunch
+819,Any 2 Vegetarian Rolls,13,Other,,Lunch|Dinner
+820,Korean,8,American,,Lunch|Dinner
+821,Country Club Soda,2,Latin American,,Lunch|Dinner
+822,BS6. Cheese Omelette Breakfast,4,American,Dairy|Eggs,Breakfast
+823,Extra Large mojito 32 oz. Glass,35,Mexican,,Lunch|Dinner
+824,Vegetarian Delight with Flank Steak,27,Asian,,Lunch|Dinner
+825,Roasted Carrots,8,American,,Lunch|Dinner
+826,1/4 lb. Bacon and Scallion Cream Cheese,5,Other,Dairy,Lunch|Dinner
+827,BLACKENED BBQ BURGER,20,Diner,Gluten,Lunch|Dinner
+828,Huaraches Regular,11,Mexican,,Lunch|Dinner
+829,Foot Long Garlic Bread,4,Burgers,Gluten,Lunch|Dinner
+830,58. Goan Fish Curry,27,Indian,Seafood,Lunch|Dinner
+831,Lunch of Beef Stew,13,Latin American,,Lunch
+832,Sandwich De Bistec Empanizado,10,Latin American,Gluten,Lunch|Dinner
+833,Goat Over Rice,14,Indian,,Lunch|Dinner
+834,Penne a la Vodka with chicken,20,Diner,Gluten,Lunch|Dinner
+835,Vegetable Special Roll,8,Japanese,,Lunch|Dinner
+836,Bresaola e Arugula,20,Other,,Lunch|Dinner
+837,Filete de Salmon Al Horno,22,Other,Seafood,Lunch|Dinner
+838,Village Omelette,15,Diner,Eggs,Breakfast
+839,Soda,2,Japanese,,Lunch|Dinner
+840,World Famous Hot Pastrami Sandwich,24,Deli Food,Gluten,Lunch|Dinner
+841,California Omelette,15,Diner,Eggs,Breakfast
+842,Coffee Mate 6oz,5,Deli Food,,Lunch|Dinner
+843,Soy ?beef' Cutlet Bibimbap Or Stone Bowl,18,Other,Soy,Lunch|Dinner
+844,5 Hour Energy,5,Deli Food,,Lunch|Dinner
+845,Two Eggs Any Style,11,Diner,Eggs,Breakfast
+846,Philadelphia Roll,8,Japanese,,Lunch|Dinner
+847,Beaujolais-Village,55,American,,Lunch|Dinner
+848,Broccoli Tray,38,Diner,,Lunch|Dinner
+849,C13. Shredded Pork with Garlic Sauce Dinner Combo Platter,12,Chinese,Dairy,Dinner
+850,Chicken Satay,5,Other,,Lunch|Dinner
+851,Low Fat Sun-Dried Tomato Cream Cheese Sandwich,6,Other,Dairy|Gluten,Lunch|Dinner
+852,9. Sushi for 2,42,Japanese,Seafood,Lunch|Dinner
+853,M7. Black Bean and Cheese Tortilla,3,Chinese,Dairy|Gluten,Lunch|Dinner
+854,Cheese Danish,5,American,Dairy,Lunch|Dinner
+855,Almond Croissants,4,Mexican,Nuts|Gluten,Breakfast
+856,Black Forest Torte,8,Other,,Lunch|Dinner
+857,Pancakes with Chocolate Chips,7,Italian,Gluten,Breakfast
+858,A. Teriyaki Tofu Lunch Bento Box Special,17,Asian,Soy,Lunch
+859,Tobiko,4,Japanese,,Lunch|Dinner
+860,Miramar Seafood Rice,29,Other,Seafood,Lunch|Dinner
+861,Veal Rollatine,23,Diner,,Lunch|Dinner
+862,Salsiccia,22,Other,,Lunch|Dinner
+863,Pollo Paillard,32,Italian,,Lunch|Dinner
+864,Tamales,5,Mexican,,Lunch|Dinner
+865,Chippy Chip King Ice Cream,4,Deli Food,Dairy,Lunch|Dinner
+866,Al Carbon Tacos,20,Mexican,Gluten,Lunch|Dinner
+867,Watermelon Feta Salad with Mint,14,Other,Dairy,Lunch|Dinner
+868,Filete de Pescado al Horno,17,Latin American,,Lunch|Dinner
+869,L15. Chicken with Broccoli Lunch,12,Chinese,,Lunch
+870,B8. Croissant,2,Other,Gluten,Breakfast
+871,Salami 1 Egg Sandwich,7,American,Gluten|Eggs,Breakfast
+872,Vegetable Tempura Roll,10,Other,,Lunch|Dinner
+873,Fried Chicken Sandwich,17,American,Gluten,Lunch|Dinner
+874,Family Combo 3,29,Latin American,,Lunch|Dinner
+875,White Fish,20,Deli Food,Seafood,Lunch|Dinner
+876,Green Beans,12,Chinese,,Lunch|Dinner
+877,Filet of Halibut,38,Italian,,Lunch|Dinner
+878,Loaded Baked Potato,18,Other,,Lunch|Dinner
+879,Side of Lox,15,Diner,,Lunch|Dinner
+880,Full House Deli Sandwich with Bacon and Tomato,9,Diner,Gluten,Lunch|Dinner
+881,Griddle Cakes with Bacon,16,Diner,Gluten,Lunch|Dinner
+882,Tartar Aji Style,9,Japanese,,Lunch|Dinner
+883,Ocean Roll,17,Asian,,Lunch|Dinner
+884,Veggie Po Boy Hoagie,12,American,,Lunch|Dinner
+885,TURKEY MELT,22,Diner,,Lunch|Dinner
+886,Spaghetti with Meatballs Platter,12,Burgers,Dairy|Gluten,Lunch|Dinner
+887,Chicken Cutlet Parmigiana Sandwich,22,American,Dairy|Gluten,Lunch|Dinner
+888,2 Eggs with Canadian Bacon,24,American,Eggs,Breakfast
+889,Q7. Lean Roasted Turkey Quesadilla,7,Other,Dairy,Lunch|Dinner
+890,Pechuga de Pollo Rellena de Camarones,29,Latin American,,Lunch|Dinner
+891,Whole Wheat Blueberry Pancakes Brunch Special,17,Diner,Gluten,Breakfast
+892,Cheese Omelette (after Noon),10,Diner,Dairy|Eggs,Breakfast
+893,Panna Water,10,Italian,,Lunch|Dinner
+894,Marsala,28,Diner,,Lunch|Dinner
+895,Herb Crusted Chicken,24,Diner,,Lunch|Dinner
+896,45. Paneer Bhurji,17,Indian,Dairy,Lunch|Dinner
+897,Madai (Sea bream),6,Japanese,,Lunch|Dinner
+898,Southern Supreme Sandwich,11,Other,Gluten,Lunch|Dinner
+899,Bottled Water,2,Italian,,Lunch|Dinner
+900,CHICKEN FRIED RICE,15,Japanese,,Lunch|Dinner
+901,Waffle with Fried Chicken and French Fries,29,Diner,Gluten,Breakfast
+902,Cheese Pie,16,Other,Dairy,Lunch|Dinner
+903,Swiss Cheese Sandwich Breakfast,5,American,Dairy|Gluten,Breakfast
+904,4 Pack Ultra Strong Charmin,7,Chicken,,Lunch|Dinner
+905,Chicken Soup,8,Other,,Lunch|Dinner
+906,81. Golden Brick Tofu,13,Other,Soy,Lunch|Dinner
+907,L12. General Tso's Chicken over Rice Lunch Special,10,Chinese,,Lunch
+908,Bacon Cheeseburger,20,Deli Food,Dairy|Gluten,Lunch|Dinner
+909,15. Eel,4,Japanese,Seafood,Lunch|Dinner
+910,Sausage,7,Diner,,Lunch|Dinner
+911,Belgian Waffle Deluxe (NOT AVAILABLE AFTER 3PM),19,Diner,Gluten,Breakfast
+912,Caramel Marshmallow Crepe,16,Other,,Lunch|Dinner
+913,Gyro Wrap,20,Diner,Gluten,Lunch|Dinner
+914,Shiitake Cucumber Roll,7,Asian,,Lunch|Dinner
+915,Bronzed Fillet Salmon Sandwich,14,American,Gluten|Seafood,Lunch|Dinner
+916,Cucumber and Avocado Club Sandwich,10,American,Gluten,Lunch|Dinner
+917,Turkish Rice,5,Other,,Lunch|Dinner
+918,Ketchup,1,American,,Lunch|Dinner
+919,Flank Steak,22,Italian,,Lunch|Dinner
+920,Chocolate Fudge Sundae,7,Other,,Lunch|Dinner
+921,Grilled Chicken Curry,20,Japanese,,Lunch|Dinner
+922,Thanksgiving on Roll Sandwich,11,Other,Gluten,Lunch|Dinner
+923,Bologna Omelette,12,Deli Food,Eggs,Breakfast
+924,40 e. Oyster Soon-Doo-Boo 굴 순두부,19,Other,Seafood,Lunch|Dinner
+925,BBQ Beef on Bun,13,Diner,Gluten,Lunch|Dinner
+926,L12. Sweet and Sour Pork Lunch Special,8,Asian,,Lunch
+927,Julius Caesar Salad,12,American,,Lunch|Dinner
+928,Beef Burger,7,Burgers,Gluten,Lunch|Dinner
+929,Tiramisu,9,Italian,,Lunch|Dinner
+930,Side of Aqua Tomatoes Salsa,2,Italian,,Lunch|Dinner
+931,Breakfast Sausage,5,Deli Food,,Breakfast
+932,Double Egg Cheeseburger,14,Burgers,Dairy|Gluten|Eggs,Breakfast
+933,2 Eggs and Turkey Bacon with Cheese on a Roll,8,Other,Dairy|Eggs,Breakfast
+934,Side of Mac and Cheese,9,American,Dairy,Lunch|Dinner
+935,Organic Maple Almond Granola,9,Other,Nuts,Breakfast
+936,Classic Chicken Quesadilla,13,American,Dairy,Lunch|Dinner
+937,52. Chicken Egg Foo Young,10,Chinese,Eggs,Breakfast
+938,Tortellini in Brodo Soup Lunch,11,Italian,,Lunch
+939,Whole Wheat French Toast With Ham & Cheese Omelette,11,American,Dairy|Gluten|Eggs,Breakfast
+940,Vegetable Omelette,14,Diner,Eggs,Breakfast
+941,Bugles,4,Deli Food,,Lunch|Dinner
+942,Lox and Onion Omelette,14,Diner,Eggs,Breakfast
+943,Mac and Cheese,17,American,Dairy,Lunch|Dinner
+944,Small Rice and Gandules/Peas,3,Deli Food,,Lunch|Dinner
+945,Sope de Sencillo,4,Mexican,,Lunch|Dinner
+946,Kale Salad,13,Other,,Lunch|Dinner
+947,Fettuccine Funghi Dinner Prix Fix,27,Italian,Gluten,Dinner
+948,Maltagliati,18,Italian,,Lunch|Dinner
+949,Juice,5,Diner,,Lunch|Dinner
+950,Eel,3,Chinese,Seafood,Lunch|Dinner
+951,Iced Tea,7,Other,,Lunch|Dinner
+952,Aloo Tikki,11,Indian,,Lunch|Dinner
+953,Chilli Basil Margarita,12,Other,,Lunch|Dinner
+954,Classic Egg Wrap,8,American,Dairy|Gluten|Eggs,Breakfast
+955,King Salmon,5,Japanese,Seafood,Lunch|Dinner
+956,Grilled Calamari Salad,17,Italian,Seafood,Lunch|Dinner
+957,Steamed Beef with Mushroom,17,Chinese,,Lunch|Dinner
+958,Crispy Bacon and Tomato Specialty Chicken,8,American,,Lunch|Dinner
+959,Mexy Q Sauce,10,Chicken,,Lunch|Dinner
+960,Spinach and Bacon Omelette,17,Diner,Eggs,Breakfast
+961,Pepper Steak Sandwich on Roll,7,Deli Food,Gluten,Lunch|Dinner
+962,Cheese Quesadilla,17,Diner,Dairy,Lunch|Dinner
+963,Chicken and Barley Soup,6,Indian,,Lunch|Dinner
+964,Fatigue Fighter Tea,10,Other,,Lunch|Dinner
+965,C_Sprite,4,Italian,,Lunch|Dinner
+966,Fattoush Salad,16,Other,,Lunch|Dinner
+967,Beef Goulash over Buttered Noodles,20,Diner,Dairy|Gluten,Lunch|Dinner
+968,Corned Beef and Cabbage,27,Diner,,Lunch|Dinner
+969,Orecchiette Salsiccia E Broccoli,20,Other,,Lunch|Dinner
+970,Hamburger Con Queso Y Papas Fritas,10,American,Dairy|Gluten,Lunch|Dinner
+971,Fish Filet Platter,8,Burgers,Dairy|Seafood,Lunch|Dinner
+972,N6. Green Omelet,7,Other,Eggs,Breakfast
+973,Chocolate Chip Pancakes,14,Diner,Gluten,Breakfast
+974,7 oz. Turkey Burger,13,Diner,Gluten,Lunch|Dinner
+975,"Waffle, French toast with Butter",10,Burgers,Dairy|Gluten|Eggs,Breakfast
+976,22. Broccoli and Cheese Omelette,12,Diner,Dairy|Eggs,Breakfast
+977,Individual Cookie,3,Deli Food,Gluten,Lunch|Dinner
+978,Hummus,8,Other,,Lunch|Dinner
+979,Hot Oatmeal Cereal,10,Diner,,Breakfast
+980,Extra Ginger Dressing,1,Japanese,,Lunch|Dinner
+981,45. Sliced Chicken with Curry Sauce,18,Chinese,,Lunch|Dinner
+982,Chicken Caesar Salad,11,Burgers,,Lunch|Dinner
+983,Sautéed Spinach,9,American,,Lunch|Dinner
+984,L17. Pepper Steak Combo Platter,13,Chinese,Dairy,Lunch|Dinner
+985,3. Crispy Pork with Chinese Broccoli Special,18,Other,,Lunch|Dinner
+986,Steamed Seafood Delights Special,14,Chinese,Seafood,Lunch|Dinner
+987,G6. Italian Hero Sandwich,8,American,Gluten,Lunch|Dinner
+988,Fatty Tuna and Scallion Roll,14,Japanese,Seafood,Lunch|Dinner
+989,Vegetales,7,American,,Lunch|Dinner
+990,Salami Hero,11,Burgers,Gluten,Lunch|Dinner
+991,Peaches & Vine Beans,13,American,,Lunch|Dinner
+992,"Prosciutto, Fresh Mozzarella and Tomato",11,Diner,Dairy,Lunch|Dinner
+993,Sparkling Spring Water,2,Other,,Lunch|Dinner
+994,Cold lump crabmeat,21,Italian,Seafood,Lunch|Dinner
+995,Hot Honey Chicken Waffle Sandwich,12,Diner,Gluten,Breakfast
+996,"Bianco Love Chicago Thin Crust (16"" Extra Large)",24,American,,Lunch|Dinner
+997,Truffle Parmesan Tater Tots,12,Italian,Dairy,Lunch|Dinner
+998,Grilled Swiss Cheese Sandwich,7,Burgers,Dairy|Gluten,Lunch|Dinner
+999,Abita Big Easy IPA,3,American,,Lunch|Dinner
+1000,Side of Beans,4,Mexican,,Lunch|Dinner
