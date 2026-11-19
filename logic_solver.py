@@ -8,6 +8,21 @@ One model per meal: every fact has a fixed true/false value for that meal,
 so there is exactly one row of the truth table to check.
 
 Evaluation count: one evaluation per fact computed (not per lookup).
+
+Proposal text implemented exactly:
+    "User requirements and meal properties are represented as logical
+    propositions. The system combines them to decide whether a meal satisfies
+    every required condition. For example, given Budget <= 30 SAR,
+    Cuisine = Italian, No Nuts, and Meal Time = Dinner, each meal is evaluated
+    against all four conditions and only meals that satisfy them are
+    recommended."
+
+Mapping of that example to the propositions in this file:
+    Budget <= 30 SAR  -> PriceOK
+    Cuisine = Italian -> IsCuisine
+    Meal Time = Dinner -> IsMealTime
+    No Nuts           -> NOT HasNuts
+    All four combined with AND -> Recommend
 """
 
 import time
