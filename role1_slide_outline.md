@@ -12,7 +12,7 @@
 
 **Dataset and cleaning (40 s)**
 - Real Kaggle New York restaurant menus dataset, cleaned by Role 1.
-- Prices cleaned and capped at 200; duplicates dropped; cuisine = first tag; rare cuisines grouped as Other.
+- Prices parsed to integers; prices above 200 dropped (not capped); duplicates dropped; cuisine = first tag; rare cuisines grouped as Other.
 - Allergens and meal times derived from dish-name keywords — approximate, not verified ingredients.
 - Three sizes: 100, 1,000 and 10,000 meals, all taken from the same cleaned file.
 

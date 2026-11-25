@@ -11,8 +11,8 @@ produced here may differ from the committed CSVs. It never overwrites the
 committed files: output goes to cleaned_output/ by default.
 
 Cleaning steps
-    1. Parse prices (strip '$' and commas), drop invalid/non-positive prices,
-       and cap prices at 200.
+    1. Parse prices (strip '$' and commas); drop invalid/non-positive prices
+       and drop prices above 200 (they are not capped).
     2. Drop duplicate dishes using (restaurant, item, price), ignoring case.
     3. Cuisine = first tag in restaurant_data.csv's Cuisine field;
        'American (New)' is folded into 'American'; anything rare becomes

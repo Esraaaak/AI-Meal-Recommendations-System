@@ -17,12 +17,12 @@
 **Worked example (30 s)**
 - Meal 51: Meatballs, price 11, Italian, no allergens, `Lunch|Dinner`.
 - T1 requires budget ≤ 30, Italian, Dinner, no Nuts.
-- Facts: `PriceOK = true`, `IsItalian = true`, `IsDinner = true`, `HasNuts = false`.
+- Facts: `PriceOK = true`, `IsCuisine = true` (Italian), `IsMealTime = true` (Dinner), `HasNuts = false`.
 - Rule evaluates to true → meal 51 is recommended. It is one of the 3 matches in T1 at 100 meals.
 
 **Results and transition (20 s)**
 - One model per meal (one truth-table row), no early stopping.
-- 24/24 tests passed; T1 used 400 evaluations at 100 meals.
+- 24/24 tests passed; for T1 at 100 meals, Logic used 400 evaluations and CSP used 109 (confirmed).
 - "Next, Role 3 will show how CSP solves the same task with constraints and backtracking."
 
 Speaker notes: be ready to define proposition, AND/OR/NOT/IFF, truth table and model checking, and to answer a basic question about CSP.

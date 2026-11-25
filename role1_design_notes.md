@@ -7,7 +7,7 @@ The data comes from the Kaggle **New York restaurant menus** dataset. The two ra
 - `restaurant_data.csv`: restaurant name, cuisine tags, address and URLs
 
 ## Cleaning done by Role 1
-1. Prices were parsed by removing `$` and commas, converted to integers, capped at **200**, and invalid prices were dropped.
+1. Prices were parsed by removing `$` and commas and converting to integers. Prices above **200** were **dropped, not capped**, and invalid prices were also dropped.
 2. Duplicate dishes were removed.
 3. Cuisine was taken as the **first tag** in the restaurant's cuisine field; rare cuisines were grouped as **Other**. This gives the 13 allowed cuisine values used in the tests.
 4. Allergens and meal times were **derived from dish-name keywords** (for example, a name containing "shrimp" gives `Seafood`; "breakfast" gives `Breakfast`). They are therefore **approximate** — they are not verified ingredient lists.
@@ -26,7 +26,7 @@ The 8 cases cover the main behaviour of both techniques and the edge cases:
 | T5 | Very strict but not empty: Diner + Breakfast + budget 15 + Nuts + Dairy, **4 matches at 100** |
 | T6 | No match: budget 0, 0 matches |
 | T7 | Almost everything matches: budget 1000, all 100 meals |
-| T8 | Boundary: budget exactly 12, an existing Italian price, 1 match at 100 |
+| T8 | Boundary: budget exactly 12 with Italian. The boundary is real only at sizes 1,000 and 10,000; no Italian meal costs exactly 12 in the 100-meal sample |
 
 Together they check normal matches, many matches, few matches, zero matches and an inclusive price boundary. The same tests run on all three dataset sizes to support the scalability comparison.
 
